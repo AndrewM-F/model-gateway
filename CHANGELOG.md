@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.64](https://github.com/AndrewM-F/model-gateway/compare/v0.14.63...v0.14.64) (2026-11-16)
+
+
+### Maintenance
+
+* point GitHub references at AndrewM-F ([b2d84b4](https://github.com/AndrewM-F/model-gateway/commit/b2d84b42f91c13333e7d81b287329ca5e2ae9a20))
+
 ## [0.14.63](https://github.com/AndrewM-F/model-gateway/compare/v0.14.62...v0.14.63) (2026-10-22)
 
 
