@@ -1,736 +1,736 @@
 # Changelog
 
-## [0.14.63](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.62...v0.14.63) (2026-10-22)
+## [0.14.63](https://github.com/AndrewM-F/model-gateway/compare/v0.14.62...v0.14.63) (2026-10-22)
 
 
 ### Maintenance
 
-* code-foundry-1.48.4-cloud ([#331](https://github.com/0xPlayerOne/model-gateway/issues/331)) ([28a3d43](https://github.com/0xPlayerOne/model-gateway/commit/28a3d433fd129d3a6b1d7cccb62f17b127c7a9f8))
+* code-foundry-1.48.4-cloud ([#331](https://github.com/AndrewM-F/model-gateway/issues/331)) ([28a3d43](https://github.com/AndrewM-F/model-gateway/commit/28a3d433fd129d3a6b1d7cccb62f17b127c7a9f8))
 
-## [0.14.62](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.61...v0.14.62) (2026-10-08)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.47.1 ([#327](https://github.com/0xPlayerOne/model-gateway/issues/327)) ([3527cc2](https://github.com/0xPlayerOne/model-gateway/commit/3527cc24b95a0aee702aae1b8d1cee9de23267ae))
-
-## [0.14.61](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.60...v0.14.61) (2026-10-03)
+## [0.14.62](https://github.com/AndrewM-F/model-gateway/compare/v0.14.61...v0.14.62) (2026-10-08)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.44.3 ([#325](https://github.com/0xPlayerOne/model-gateway/issues/325)) ([48fa4de](https://github.com/0xPlayerOne/model-gateway/commit/48fa4de66a069c18be64d16aa5b025a7cbbddd24))
+* **code-foundry:** upgrade runtime to v1.47.1 ([#327](https://github.com/AndrewM-F/model-gateway/issues/327)) ([3527cc2](https://github.com/AndrewM-F/model-gateway/commit/3527cc24b95a0aee702aae1b8d1cee9de23267ae))
 
-## [0.14.60](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.59...v0.14.60) (2026-10-02)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.41.0 ([#323](https://github.com/0xPlayerOne/model-gateway/issues/323)) ([a439c6a](https://github.com/0xPlayerOne/model-gateway/commit/a439c6a57862e9d00eb4da05fee5aea8536c9d6f))
-
-## [0.14.59](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.58...v0.14.59) (2026-10-02)
+## [0.14.61](https://github.com/AndrewM-F/model-gateway/compare/v0.14.60...v0.14.61) (2026-10-03)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.40.0 ([#321](https://github.com/0xPlayerOne/model-gateway/issues/321)) ([e550dfe](https://github.com/0xPlayerOne/model-gateway/commit/e550dfe6e3e4a0551a40796e9219bdd694591305))
+* **code-foundry:** upgrade runtime to v1.44.3 ([#325](https://github.com/AndrewM-F/model-gateway/issues/325)) ([48fa4de](https://github.com/AndrewM-F/model-gateway/commit/48fa4de66a069c18be64d16aa5b025a7cbbddd24))
 
-## [0.14.58](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.57...v0.14.58) (2026-10-02)
-
-
-### Maintenance
-
-* cache Rust builds in the native release legs ([#319](https://github.com/0xPlayerOne/model-gateway/issues/319)) ([8ff8752](https://github.com/0xPlayerOne/model-gateway/commit/8ff8752d9931f38968c9c0e30a26166809476a66))
-
-## [0.14.57](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.56...v0.14.57) (2026-09-30)
+## [0.14.60](https://github.com/AndrewM-F/model-gateway/compare/v0.14.59...v0.14.60) (2026-10-02)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.38.1 ([#317](https://github.com/0xPlayerOne/model-gateway/issues/317)) ([56d2cde](https://github.com/0xPlayerOne/model-gateway/commit/56d2cdec489e865e4f90828ee854227ac4d41115))
+* **code-foundry:** upgrade runtime to v1.41.0 ([#323](https://github.com/AndrewM-F/model-gateway/issues/323)) ([a439c6a](https://github.com/AndrewM-F/model-gateway/commit/a439c6a57862e9d00eb4da05fee5aea8536c9d6f))
 
-## [0.14.56](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.55...v0.14.56) (2026-09-30)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.38.0 ([#315](https://github.com/0xPlayerOne/model-gateway/issues/315)) ([b6f1d82](https://github.com/0xPlayerOne/model-gateway/commit/b6f1d823b424b516bff52f89929c1e1a13c43866))
-
-## [0.14.55](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.54...v0.14.55) (2026-09-30)
+## [0.14.59](https://github.com/AndrewM-F/model-gateway/compare/v0.14.58...v0.14.59) (2026-10-02)
 
 
 ### Maintenance
 
-* **deps:** weekly update ([#308](https://github.com/0xPlayerOne/model-gateway/issues/308)) ([6da706c](https://github.com/0xPlayerOne/model-gateway/commit/6da706cc76451a9fbdfae94bb6be2e5765039ed8))
+* **code-foundry:** upgrade runtime to v1.40.0 ([#321](https://github.com/AndrewM-F/model-gateway/issues/321)) ([e550dfe](https://github.com/AndrewM-F/model-gateway/commit/e550dfe6e3e4a0551a40796e9219bdd694591305))
 
-## [0.14.54](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.53...v0.14.54) (2026-09-29)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.36.4 ([#312](https://github.com/0xPlayerOne/model-gateway/issues/312)) ([adda9f0](https://github.com/0xPlayerOne/model-gateway/commit/adda9f091a9f50978a1118b873ac04f85dd5ef9f))
-
-## [0.14.53](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.52...v0.14.53) (2026-09-29)
+## [0.14.58](https://github.com/AndrewM-F/model-gateway/compare/v0.14.57...v0.14.58) (2026-10-02)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.35.0 ([#310](https://github.com/0xPlayerOne/model-gateway/issues/310)) ([ecdb75e](https://github.com/0xPlayerOne/model-gateway/commit/ecdb75e56b54cf47692044372e88063b79877dea))
+* cache Rust builds in the native release legs ([#319](https://github.com/AndrewM-F/model-gateway/issues/319)) ([8ff8752](https://github.com/AndrewM-F/model-gateway/commit/8ff8752d9931f38968c9c0e30a26166809476a66))
 
-## [0.14.52](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.51...v0.14.52) (2026-09-27)
-
-
-### Maintenance
-
-* **deps:** bump thiserror in the cargo-dependencies group ([#305](https://github.com/0xPlayerOne/model-gateway/issues/305)) ([016bd8f](https://github.com/0xPlayerOne/model-gateway/commit/016bd8f9fabfd897b2ba2e1fb3ebfe1cb533bce6))
-* **routing:** remove dead is_verified_free wrapper ([#306](https://github.com/0xPlayerOne/model-gateway/issues/306)) ([3f21229](https://github.com/0xPlayerOne/model-gateway/commit/3f2122991376b6520af3327e5eae8bca7b5479ac))
-
-## [0.14.51](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.50...v0.14.51) (2026-09-26)
+## [0.14.57](https://github.com/AndrewM-F/model-gateway/compare/v0.14.56...v0.14.57) (2026-09-30)
 
 
 ### Maintenance
 
-* **routing:** remove dead has_incomplete_price_observation and has_incomplete_on_connection helpers ([#303](https://github.com/0xPlayerOne/model-gateway/issues/303)) ([abb535d](https://github.com/0xPlayerOne/model-gateway/commit/abb535ddd8e4c3309649ee4ec0e443b935023145))
+* **code-foundry:** upgrade runtime to v1.38.1 ([#317](https://github.com/AndrewM-F/model-gateway/issues/317)) ([56d2cde](https://github.com/AndrewM-F/model-gateway/commit/56d2cdec489e865e4f90828ee854227ac4d41115))
 
-## [0.14.50](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.49...v0.14.50) (2026-09-23)
+## [0.14.56](https://github.com/AndrewM-F/model-gateway/compare/v0.14.55...v0.14.56) (2026-09-30)
 
 
 ### Maintenance
 
-* **identity:** remove unnecessary now_seconds() wrapper, fix formatting ([#297](https://github.com/0xPlayerOne/model-gateway/issues/297)) ([126abd7](https://github.com/0xPlayerOne/model-gateway/commit/126abd78b42c228a7922d3013a144d60a56e2dfa))
+* **code-foundry:** upgrade runtime to v1.38.0 ([#315](https://github.com/AndrewM-F/model-gateway/issues/315)) ([b6f1d82](https://github.com/AndrewM-F/model-gateway/commit/b6f1d823b424b516bff52f89929c1e1a13c43866))
 
-## [0.14.49](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.48...v0.14.49) (2026-09-23)
+## [0.14.55](https://github.com/AndrewM-F/model-gateway/compare/v0.14.54...v0.14.55) (2026-09-30)
+
+
+### Maintenance
+
+* **deps:** weekly update ([#308](https://github.com/AndrewM-F/model-gateway/issues/308)) ([6da706c](https://github.com/AndrewM-F/model-gateway/commit/6da706cc76451a9fbdfae94bb6be2e5765039ed8))
+
+## [0.14.54](https://github.com/AndrewM-F/model-gateway/compare/v0.14.53...v0.14.54) (2026-09-29)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.36.4 ([#312](https://github.com/AndrewM-F/model-gateway/issues/312)) ([adda9f0](https://github.com/AndrewM-F/model-gateway/commit/adda9f091a9f50978a1118b873ac04f85dd5ef9f))
+
+## [0.14.53](https://github.com/AndrewM-F/model-gateway/compare/v0.14.52...v0.14.53) (2026-09-29)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.35.0 ([#310](https://github.com/AndrewM-F/model-gateway/issues/310)) ([ecdb75e](https://github.com/AndrewM-F/model-gateway/commit/ecdb75e56b54cf47692044372e88063b79877dea))
+
+## [0.14.52](https://github.com/AndrewM-F/model-gateway/compare/v0.14.51...v0.14.52) (2026-09-27)
+
+
+### Maintenance
+
+* **deps:** bump thiserror in the cargo-dependencies group ([#305](https://github.com/AndrewM-F/model-gateway/issues/305)) ([016bd8f](https://github.com/AndrewM-F/model-gateway/commit/016bd8f9fabfd897b2ba2e1fb3ebfe1cb533bce6))
+* **routing:** remove dead is_verified_free wrapper ([#306](https://github.com/AndrewM-F/model-gateway/issues/306)) ([3f21229](https://github.com/AndrewM-F/model-gateway/commit/3f2122991376b6520af3327e5eae8bca7b5479ac))
+
+## [0.14.51](https://github.com/AndrewM-F/model-gateway/compare/v0.14.50...v0.14.51) (2026-09-26)
+
+
+### Maintenance
+
+* **routing:** remove dead has_incomplete_price_observation and has_incomplete_on_connection helpers ([#303](https://github.com/AndrewM-F/model-gateway/issues/303)) ([abb535d](https://github.com/AndrewM-F/model-gateway/commit/abb535ddd8e4c3309649ee4ec0e443b935023145))
+
+## [0.14.50](https://github.com/AndrewM-F/model-gateway/compare/v0.14.49...v0.14.50) (2026-09-23)
+
+
+### Maintenance
+
+* **identity:** remove unnecessary now_seconds() wrapper, fix formatting ([#297](https://github.com/AndrewM-F/model-gateway/issues/297)) ([126abd7](https://github.com/AndrewM-F/model-gateway/commit/126abd78b42c228a7922d3013a144d60a56e2dfa))
+
+## [0.14.49](https://github.com/AndrewM-F/model-gateway/compare/v0.14.48...v0.14.49) (2026-09-23)
 
 
 ### Tests
 
-* **cli-proxy:** add coverage for configured_port, base_url, login, serve ([#296](https://github.com/0xPlayerOne/model-gateway/issues/296)) ([3533832](https://github.com/0xPlayerOne/model-gateway/commit/35338328a11541f2e1776300b41b5782a6f8e013))
+* **cli-proxy:** add coverage for configured_port, base_url, login, serve ([#296](https://github.com/AndrewM-F/model-gateway/issues/296)) ([3533832](https://github.com/AndrewM-F/model-gateway/commit/35338328a11541f2e1776300b41b5782a6f8e013))
 
-## [0.14.48](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.47...v0.14.48) (2026-09-21)
-
-
-### Maintenance
-
-* **deps:** weekly update ([#292](https://github.com/0xPlayerOne/model-gateway/issues/292)) ([0c76e66](https://github.com/0xPlayerOne/model-gateway/commit/0c76e66f1f860f8ec18d3764d62905d3b71eb121))
-
-## [0.14.47](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.46...v0.14.47) (2026-09-21)
+## [0.14.48](https://github.com/AndrewM-F/model-gateway/compare/v0.14.47...v0.14.48) (2026-09-21)
 
 
 ### Maintenance
 
-* **license:** allow project license in deny policy ([#293](https://github.com/0xPlayerOne/model-gateway/issues/293)) ([126692e](https://github.com/0xPlayerOne/model-gateway/commit/126692e3ebca0d8b4007afe570634df4c9e6984b))
+* **deps:** weekly update ([#292](https://github.com/AndrewM-F/model-gateway/issues/292)) ([0c76e66](https://github.com/AndrewM-F/model-gateway/commit/0c76e66f1f860f8ec18d3764d62905d3b71eb121))
 
-## [0.14.46](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.45...v0.14.46) (2026-09-20)
+## [0.14.47](https://github.com/AndrewM-F/model-gateway/compare/v0.14.46...v0.14.47) (2026-09-21)
+
+
+### Maintenance
+
+* **license:** allow project license in deny policy ([#293](https://github.com/AndrewM-F/model-gateway/issues/293)) ([126692e](https://github.com/AndrewM-F/model-gateway/commit/126692e3ebca0d8b4007afe570634df4c9e6984b))
+
+## [0.14.46](https://github.com/AndrewM-F/model-gateway/compare/v0.14.45...v0.14.46) (2026-09-20)
 
 
 ### Performance
 
-* **routing:** index pricing lookups ([#288](https://github.com/0xPlayerOne/model-gateway/issues/288)) ([191de5a](https://github.com/0xPlayerOne/model-gateway/commit/191de5a5052d694a19c70b4b64a7115b409d1b7b))
+* **routing:** index pricing lookups ([#288](https://github.com/AndrewM-F/model-gateway/issues/288)) ([191de5a](https://github.com/AndrewM-F/model-gateway/commit/191de5a5052d694a19c70b4b64a7115b409d1b7b))
 
-## [0.14.45](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.44...v0.14.45) (2026-09-20)
-
-
-### Maintenance
-
-* **deps:** bump docker/setup-buildx-action from 4.3.0 to 4.4.1 in the github-actions group ([#286](https://github.com/0xPlayerOne/model-gateway/issues/286)) ([fb8ddd9](https://github.com/0xPlayerOne/model-gateway/commit/fb8ddd9583208690e22885dde1bed87317515174))
-
-## [0.14.44](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.43...v0.14.44) (2026-09-20)
+## [0.14.45](https://github.com/AndrewM-F/model-gateway/compare/v0.14.44...v0.14.45) (2026-09-20)
 
 
 ### Maintenance
 
-* **deps:** bump clap in the cargo-dependencies group ([#287](https://github.com/0xPlayerOne/model-gateway/issues/287)) ([63e96c6](https://github.com/0xPlayerOne/model-gateway/commit/63e96c6ea5e1a87736cb52c84ca9786455968627))
+* **deps:** bump docker/setup-buildx-action from 4.3.0 to 4.4.1 in the github-actions group ([#286](https://github.com/AndrewM-F/model-gateway/issues/286)) ([fb8ddd9](https://github.com/AndrewM-F/model-gateway/commit/fb8ddd9583208690e22885dde1bed87317515174))
 
-## [0.14.43](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.42...v0.14.43) (2026-09-19)
+## [0.14.44](https://github.com/AndrewM-F/model-gateway/compare/v0.14.43...v0.14.44) (2026-09-20)
+
+
+### Maintenance
+
+* **deps:** bump clap in the cargo-dependencies group ([#287](https://github.com/AndrewM-F/model-gateway/issues/287)) ([63e96c6](https://github.com/AndrewM-F/model-gateway/commit/63e96c6ea5e1a87736cb52c84ca9786455968627))
+
+## [0.14.43](https://github.com/AndrewM-F/model-gateway/compare/v0.14.42...v0.14.43) (2026-09-19)
 
 
 ### Performance
 
-* cache quality bar timestamp per selection pass ([#284](https://github.com/0xPlayerOne/model-gateway/issues/284)) ([97558de](https://github.com/0xPlayerOne/model-gateway/commit/97558dea62ea3d3c220835165a04723d17c6f44d))
+* cache quality bar timestamp per selection pass ([#284](https://github.com/AndrewM-F/model-gateway/issues/284)) ([97558de](https://github.com/AndrewM-F/model-gateway/commit/97558dea62ea3d3c220835165a04723d17c6f44d))
 
-## [0.14.42](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.41...v0.14.42) (2026-09-18)
+## [0.14.42](https://github.com/AndrewM-F/model-gateway/compare/v0.14.41...v0.14.42) (2026-09-18)
 
 
 ### Performance
 
-* **routing:** add indexes for catalog lookups ([#282](https://github.com/0xPlayerOne/model-gateway/issues/282)) ([7f4b30d](https://github.com/0xPlayerOne/model-gateway/commit/7f4b30d08861711b638bd3a1f97d580c267e894d))
+* **routing:** add indexes for catalog lookups ([#282](https://github.com/AndrewM-F/model-gateway/issues/282)) ([7f4b30d](https://github.com/AndrewM-F/model-gateway/commit/7f4b30d08861711b638bd3a1f97d580c267e894d))
 
-## [0.14.41](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.40...v0.14.41) (2026-09-17)
-
-
-### Maintenance
-
-* adopt Code Foundry runtime v1.30.0 ([#279](https://github.com/0xPlayerOne/model-gateway/issues/279)) ([ca57167](https://github.com/0xPlayerOne/model-gateway/commit/ca57167582f858fed5edf635189380b4b8158b27))
-
-## [0.14.40](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.39...v0.14.40) (2026-09-17)
+## [0.14.41](https://github.com/AndrewM-F/model-gateway/compare/v0.14.40...v0.14.41) (2026-09-17)
 
 
 ### Maintenance
 
-* point config runtime_ref at v1.29.1 ([#277](https://github.com/0xPlayerOne/model-gateway/issues/277)) ([7dbd437](https://github.com/0xPlayerOne/model-gateway/commit/7dbd437eed8f0955d8f4f358b2e07799e5e2f2c1))
+* adopt Code Foundry runtime v1.30.0 ([#279](https://github.com/AndrewM-F/model-gateway/issues/279)) ([ca57167](https://github.com/AndrewM-F/model-gateway/commit/ca57167582f858fed5edf635189380b4b8158b27))
 
-## [0.14.39](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.38...v0.14.39) (2026-09-17)
-
-
-### Maintenance
-
-* bump Code Foundry runtime ref to v1.29.1 ([#275](https://github.com/0xPlayerOne/model-gateway/issues/275)) ([ce78f70](https://github.com/0xPlayerOne/model-gateway/commit/ce78f7082f32414f733f682b014fda3dad1f4975))
-
-## [0.14.38](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.37...v0.14.38) (2026-09-17)
+## [0.14.40](https://github.com/AndrewM-F/model-gateway/compare/v0.14.39...v0.14.40) (2026-09-17)
 
 
 ### Maintenance
 
-* extract HTTP client and optimize SQL timestamps ([#272](https://github.com/0xPlayerOne/model-gateway/issues/272)) ([328a7d8](https://github.com/0xPlayerOne/model-gateway/commit/328a7d831d261327ddbadc6a3fe280dd1e1fc706))
+* point config runtime_ref at v1.29.1 ([#277](https://github.com/AndrewM-F/model-gateway/issues/277)) ([7dbd437](https://github.com/AndrewM-F/model-gateway/commit/7dbd437eed8f0955d8f4f358b2e07799e5e2f2c1))
 
-## [0.14.37](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.36...v0.14.37) (2026-09-15)
+## [0.14.39](https://github.com/AndrewM-F/model-gateway/compare/v0.14.38...v0.14.39) (2026-09-17)
+
+
+### Maintenance
+
+* bump Code Foundry runtime ref to v1.29.1 ([#275](https://github.com/AndrewM-F/model-gateway/issues/275)) ([ce78f70](https://github.com/AndrewM-F/model-gateway/commit/ce78f7082f32414f733f682b014fda3dad1f4975))
+
+## [0.14.38](https://github.com/AndrewM-F/model-gateway/compare/v0.14.37...v0.14.38) (2026-09-17)
+
+
+### Maintenance
+
+* extract HTTP client and optimize SQL timestamps ([#272](https://github.com/AndrewM-F/model-gateway/issues/272)) ([328a7d8](https://github.com/AndrewM-F/model-gateway/commit/328a7d831d261327ddbadc6a3fe280dd1e1fc706))
+
+## [0.14.37](https://github.com/AndrewM-F/model-gateway/compare/v0.14.36...v0.14.37) (2026-09-15)
 
 
 ### Bug Fixes
 
-* format benchmark delete test args ([#270](https://github.com/0xPlayerOne/model-gateway/issues/270)) ([3160bec](https://github.com/0xPlayerOne/model-gateway/commit/3160beca1b2a09ceb7521c0e5f5d1eb68fe97c1b))
+* format benchmark delete test args ([#270](https://github.com/AndrewM-F/model-gateway/issues/270)) ([3160bec](https://github.com/AndrewM-F/model-gateway/commit/3160beca1b2a09ceb7521c0e5f5d1eb68fe97c1b))
 
-## [0.14.36](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.35...v0.14.36) (2026-09-15)
+## [0.14.36](https://github.com/AndrewM-F/model-gateway/compare/v0.14.35...v0.14.36) (2026-09-15)
 
 
 ### Tests
 
-* **cli:** add benchmark delete CLI coverage for main.rs ([#268](https://github.com/0xPlayerOne/model-gateway/issues/268)) ([a2f3c33](https://github.com/0xPlayerOne/model-gateway/commit/a2f3c33c394dbd173adf744482e532099491015a))
+* **cli:** add benchmark delete CLI coverage for main.rs ([#268](https://github.com/AndrewM-F/model-gateway/issues/268)) ([a2f3c33](https://github.com/AndrewM-F/model-gateway/commit/a2f3c33c394dbd173adf744482e532099491015a))
 
-## [0.14.35](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.34...v0.14.35) (2026-09-14)
-
-
-### Maintenance
-
-* **deps:** weekly update ([#266](https://github.com/0xPlayerOne/model-gateway/issues/266)) ([6834c78](https://github.com/0xPlayerOne/model-gateway/commit/6834c78fa558e53de1aba924224386ab2371eab7))
-
-## [0.14.34](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.33...v0.14.34) (2026-09-13)
+## [0.14.35](https://github.com/AndrewM-F/model-gateway/compare/v0.14.34...v0.14.35) (2026-09-14)
 
 
 ### Maintenance
 
-* **deps:** bump reqwest ([#262](https://github.com/0xPlayerOne/model-gateway/issues/262)) ([702a299](https://github.com/0xPlayerOne/model-gateway/commit/702a29904d77eaed8f3f764ddb42ef742caa678a))
+* **deps:** weekly update ([#266](https://github.com/AndrewM-F/model-gateway/issues/266)) ([6834c78](https://github.com/AndrewM-F/model-gateway/commit/6834c78fa558e53de1aba924224386ab2371eab7))
 
-## [0.14.33](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.32...v0.14.33) (2026-09-13)
+## [0.14.34](https://github.com/AndrewM-F/model-gateway/compare/v0.14.33...v0.14.34) (2026-09-13)
 
 
 ### Maintenance
 
-* **gateway:** deduplicate benchmark resolution and cache token computations ([#263](https://github.com/0xPlayerOne/model-gateway/issues/263)) ([1bbab1e](https://github.com/0xPlayerOne/model-gateway/commit/1bbab1e8e56eea806980f3274a052e3d21dbc387))
+* **deps:** bump reqwest ([#262](https://github.com/AndrewM-F/model-gateway/issues/262)) ([702a299](https://github.com/AndrewM-F/model-gateway/commit/702a29904d77eaed8f3f764ddb42ef742caa678a))
 
-## [0.14.32](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.31...v0.14.32) (2026-09-12)
+## [0.14.33](https://github.com/AndrewM-F/model-gateway/compare/v0.14.32...v0.14.33) (2026-09-13)
+
+
+### Maintenance
+
+* **gateway:** deduplicate benchmark resolution and cache token computations ([#263](https://github.com/AndrewM-F/model-gateway/issues/263)) ([1bbab1e](https://github.com/AndrewM-F/model-gateway/commit/1bbab1e8e56eea806980f3274a052e3d21dbc387))
+
+## [0.14.32](https://github.com/AndrewM-F/model-gateway/compare/v0.14.31...v0.14.32) (2026-09-12)
 
 
 ### Performance
 
-* index benchmark matches during routing ([#260](https://github.com/0xPlayerOne/model-gateway/issues/260)) ([983f8a1](https://github.com/0xPlayerOne/model-gateway/commit/983f8a1086bc02970843408fcae954afdc0a6626))
+* index benchmark matches during routing ([#260](https://github.com/AndrewM-F/model-gateway/issues/260)) ([983f8a1](https://github.com/AndrewM-F/model-gateway/commit/983f8a1086bc02970843408fcae954afdc0a6626))
 
-## [0.14.31](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.30...v0.14.31) (2026-09-11)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.28.14 ([#258](https://github.com/0xPlayerOne/model-gateway/issues/258)) ([486e8d6](https://github.com/0xPlayerOne/model-gateway/commit/486e8d6ec7acff5246c77f975e5c89896b8e205c))
-
-## [0.14.30](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.29...v0.14.30) (2026-09-11)
+## [0.14.31](https://github.com/AndrewM-F/model-gateway/compare/v0.14.30...v0.14.31) (2026-09-11)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.28.11 ([#256](https://github.com/0xPlayerOne/model-gateway/issues/256)) ([64d8d02](https://github.com/0xPlayerOne/model-gateway/commit/64d8d02a6dbef99942a4d96afd1d20a90a6045d0))
+* **code-foundry:** upgrade runtime to v1.28.14 ([#258](https://github.com/AndrewM-F/model-gateway/issues/258)) ([486e8d6](https://github.com/AndrewM-F/model-gateway/commit/486e8d6ec7acff5246c77f975e5c89896b8e205c))
 
-## [0.14.29](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.28...v0.14.29) (2026-09-10)
-
-
-### Maintenance
-
-* **ci:** upgrade Code Foundry to v1.28.2 ([#253](https://github.com/0xPlayerOne/model-gateway/issues/253)) ([a9db7ab](https://github.com/0xPlayerOne/model-gateway/commit/a9db7abd5444ea5e077e7cff11a3ff543869ff7d))
-* **code-foundry:** upgrade runtime to v1.28.4 ([f538b7a](https://github.com/0xPlayerOne/model-gateway/commit/f538b7ac9f2e29b5351c0ec2d17900767b44fd1b))
-
-## [0.14.28](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.27...v0.14.28) (2026-09-08)
+## [0.14.30](https://github.com/AndrewM-F/model-gateway/compare/v0.14.29...v0.14.30) (2026-09-11)
 
 
 ### Maintenance
 
-* **ci:** upgrade Code Foundry to v1.9.11 ([#250](https://github.com/0xPlayerOne/model-gateway/issues/250)) ([4fb715f](https://github.com/0xPlayerOne/model-gateway/commit/4fb715f58c43a447d58fa46804515d2ca2938fb3))
+* **code-foundry:** upgrade runtime to v1.28.11 ([#256](https://github.com/AndrewM-F/model-gateway/issues/256)) ([64d8d02](https://github.com/AndrewM-F/model-gateway/commit/64d8d02a6dbef99942a4d96afd1d20a90a6045d0))
 
-## [0.14.27](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.26...v0.14.27) (2026-09-08)
+## [0.14.29](https://github.com/AndrewM-F/model-gateway/compare/v0.14.28...v0.14.29) (2026-09-10)
+
+
+### Maintenance
+
+* **ci:** upgrade Code Foundry to v1.28.2 ([#253](https://github.com/AndrewM-F/model-gateway/issues/253)) ([a9db7ab](https://github.com/AndrewM-F/model-gateway/commit/a9db7abd5444ea5e077e7cff11a3ff543869ff7d))
+* **code-foundry:** upgrade runtime to v1.28.4 ([f538b7a](https://github.com/AndrewM-F/model-gateway/commit/f538b7ac9f2e29b5351c0ec2d17900767b44fd1b))
+
+## [0.14.28](https://github.com/AndrewM-F/model-gateway/compare/v0.14.27...v0.14.28) (2026-09-08)
+
+
+### Maintenance
+
+* **ci:** upgrade Code Foundry to v1.9.11 ([#250](https://github.com/AndrewM-F/model-gateway/issues/250)) ([4fb715f](https://github.com/AndrewM-F/model-gateway/commit/4fb715f58c43a447d58fa46804515d2ca2938fb3))
+
+## [0.14.27](https://github.com/AndrewM-F/model-gateway/compare/v0.14.26...v0.14.27) (2026-09-08)
 
 
 ### Bug Fixes
 
-* **ci:** pin generated callers to the adopted v1.4.1 runtime ([#246](https://github.com/0xPlayerOne/model-gateway/issues/246)) ([cb1b5f7](https://github.com/0xPlayerOne/model-gateway/commit/cb1b5f7401a897947eafd34f0e0bf36c4362955d))
+* **ci:** pin generated callers to the adopted v1.4.1 runtime ([#246](https://github.com/AndrewM-F/model-gateway/issues/246)) ([cb1b5f7](https://github.com/AndrewM-F/model-gateway/commit/cb1b5f7401a897947eafd34f0e0bf36c4362955d))
 
 
 ### Performance
 
-* add build and runtime regression audit ([#249](https://github.com/0xPlayerOne/model-gateway/issues/249)) ([3797bb6](https://github.com/0xPlayerOne/model-gateway/commit/3797bb61aabd94f05ecde93c2c050ebdd65c6d4c))
+* add build and runtime regression audit ([#249](https://github.com/AndrewM-F/model-gateway/issues/249)) ([3797bb6](https://github.com/AndrewM-F/model-gateway/commit/3797bb61aabd94f05ecde93c2c050ebdd65c6d4c))
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.4.1 ([#243](https://github.com/0xPlayerOne/model-gateway/issues/243)) ([177ce98](https://github.com/0xPlayerOne/model-gateway/commit/177ce9841d9eefb04456982adb4ad04012a89ae0))
-* **code-foundry:** upgrade to v1.5.0 ([#248](https://github.com/0xPlayerOne/model-gateway/issues/248)) ([17ef8d2](https://github.com/0xPlayerOne/model-gateway/commit/17ef8d238abaf191dbfff7b08becb8851628f76d))
+* **code-foundry:** upgrade runtime to v1.4.1 ([#243](https://github.com/AndrewM-F/model-gateway/issues/243)) ([177ce98](https://github.com/AndrewM-F/model-gateway/commit/177ce9841d9eefb04456982adb4ad04012a89ae0))
+* **code-foundry:** upgrade to v1.5.0 ([#248](https://github.com/AndrewM-F/model-gateway/issues/248)) ([17ef8d2](https://github.com/AndrewM-F/model-gateway/commit/17ef8d238abaf191dbfff7b08becb8851628f76d))
 
-## [0.14.26](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.25...v0.14.26) (2026-09-07)
-
-
-### Maintenance
-
-* adopt code-foundry v1.3.1 baseline ([#241](https://github.com/0xPlayerOne/model-gateway/issues/241)) ([4edada1](https://github.com/0xPlayerOne/model-gateway/commit/4edada11112601bdca4447c36cda4f42aa5045d5))
-
-## [0.14.25](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.24...v0.14.25) (2026-09-06)
+## [0.14.26](https://github.com/AndrewM-F/model-gateway/compare/v0.14.25...v0.14.26) (2026-09-07)
 
 
 ### Maintenance
 
-* adopt code-foundry v1.1.1 baseline ([#238](https://github.com/0xPlayerOne/model-gateway/issues/238)) ([86e7141](https://github.com/0xPlayerOne/model-gateway/commit/86e714136b14c177bf116b5fae19d650571e33ae))
+* adopt code-foundry v1.3.1 baseline ([#241](https://github.com/AndrewM-F/model-gateway/issues/241)) ([4edada1](https://github.com/AndrewM-F/model-gateway/commit/4edada11112601bdca4447c36cda4f42aa5045d5))
 
-## [0.14.24](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.23...v0.14.24) (2026-09-06)
-
-
-### Maintenance
-
-* sync opencode-security scanner model to muse-spark-1.3 ([#236](https://github.com/0xPlayerOne/model-gateway/issues/236)) ([c54f568](https://github.com/0xPlayerOne/model-gateway/commit/c54f568c2c4e2516e18c1e31b23e1dabe1ed9b9e))
-
-## [0.14.23](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.22...v0.14.23) (2026-09-06)
+## [0.14.25](https://github.com/AndrewM-F/model-gateway/compare/v0.14.24...v0.14.25) (2026-09-06)
 
 
 ### Maintenance
 
-* **deps:** bump toml ([#227](https://github.com/0xPlayerOne/model-gateway/issues/227)) ([1723952](https://github.com/0xPlayerOne/model-gateway/commit/1723952e0ad7c51c726fbdd4042ce14beb742910))
+* adopt code-foundry v1.1.1 baseline ([#238](https://github.com/AndrewM-F/model-gateway/issues/238)) ([86e7141](https://github.com/AndrewM-F/model-gateway/commit/86e714136b14c177bf116b5fae19d650571e33ae))
 
-## [0.14.22](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.21...v0.14.22) (2026-09-06)
-
-
-### Maintenance
-
-* dedupe fingerprint helpers and number formatters ([#233](https://github.com/0xPlayerOne/model-gateway/issues/233)) ([67d2f10](https://github.com/0xPlayerOne/model-gateway/commit/67d2f10f5b7ae865f24b8b176df86a02545481cd))
-
-## [0.14.21](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.20...v0.14.21) (2026-09-06)
+## [0.14.24](https://github.com/AndrewM-F/model-gateway/compare/v0.14.23...v0.14.24) (2026-09-06)
 
 
 ### Maintenance
 
-* **sync:** adopt code-foundry v1.0.4 baseline ([1d147a0](https://github.com/0xPlayerOne/model-gateway/commit/1d147a04648d7d27f02d9a4cc2d2c0dc68f4ea6a))
+* sync opencode-security scanner model to muse-spark-1.3 ([#236](https://github.com/AndrewM-F/model-gateway/issues/236)) ([c54f568](https://github.com/AndrewM-F/model-gateway/commit/c54f568c2c4e2516e18c1e31b23e1dabe1ed9b9e))
 
-## [0.14.20](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.19...v0.14.20) (2026-09-06)
-
-
-### Maintenance
-
-* **sync:** adopt code-foundry v1.0.3 baseline ([749c0b6](https://github.com/0xPlayerOne/model-gateway/commit/749c0b6027bd84ecd02c203011ef1a8342c5c6ae))
-
-## [0.14.19](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.18...v0.14.19) (2026-09-05)
+## [0.14.23](https://github.com/AndrewM-F/model-gateway/compare/v0.14.22...v0.14.23) (2026-09-06)
 
 
 ### Maintenance
 
-* batch effective price lookups and dedupe pricing helpers ([#223](https://github.com/0xPlayerOne/model-gateway/issues/223)) ([8a334b8](https://github.com/0xPlayerOne/model-gateway/commit/8a334b84f4959238fec8d277211b3dfa2ea435aa))
-* batch pricing coverage queries and dedupe helpers ([#220](https://github.com/0xPlayerOne/model-gateway/issues/220)) ([755e290](https://github.com/0xPlayerOne/model-gateway/commit/755e290e6e593ad1a199d6bcbb2a9be6c105d73c))
-* dedupe benchmark grouping and eliminate duplicate catalog query ([#214](https://github.com/0xPlayerOne/model-gateway/issues/214)) ([ea1073c](https://github.com/0xPlayerOne/model-gateway/commit/ea1073c21b75bb613c6f54dd93c3a731be78b928))
-* dedupe hex/permission helpers and batch catalog timestamps ([#217](https://github.com/0xPlayerOne/model-gateway/issues/217)) ([49bad5d](https://github.com/0xPlayerOne/model-gateway/commit/49bad5d5669dae5ba1e31f692fb9cdb94cb185a1))
-* **deps:** weekly update ([f260cce](https://github.com/0xPlayerOne/model-gateway/commit/f260ccee7ab213e5570744ae15043e59af43422b))
-* **sync:** adopt code-foundry v0.40.3 baseline ([1f98a00](https://github.com/0xPlayerOne/model-gateway/commit/1f98a00390b78577e58c3a8cd9b36287eaa5a690))
+* **deps:** bump toml ([#227](https://github.com/AndrewM-F/model-gateway/issues/227)) ([1723952](https://github.com/AndrewM-F/model-gateway/commit/1723952e0ad7c51c726fbdd4042ce14beb742910))
 
-## [0.14.18](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.17...v0.14.18) (2026-08-30)
+## [0.14.22](https://github.com/AndrewM-F/model-gateway/compare/v0.14.21...v0.14.22) (2026-09-06)
 
 
 ### Maintenance
 
-* identity-dedup ([#188](https://github.com/0xPlayerOne/model-gateway/issues/188)) ([5ad72d0](https://github.com/0xPlayerOne/model-gateway/commit/5ad72d05bab126488faff0222401799fbfd87b8c))
+* dedupe fingerprint helpers and number formatters ([#233](https://github.com/AndrewM-F/model-gateway/issues/233)) ([67d2f10](https://github.com/AndrewM-F/model-gateway/commit/67d2f10f5b7ae865f24b8b176df86a02545481cd))
 
-## [0.14.17](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.16...v0.14.17) (2026-08-30)
-
-
-### Maintenance
-
-* **deps:** bump the cargo-dependencies group across 1 directory with 3 updates ([#206](https://github.com/0xPlayerOne/model-gateway/issues/206)) ([cdab6e5](https://github.com/0xPlayerOne/model-gateway/commit/cdab6e539c55fd8bffe497b860ee3529f317d841))
-
-## [0.14.16](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.15...v0.14.16) (2026-08-30)
+## [0.14.21](https://github.com/AndrewM-F/model-gateway/compare/v0.14.20...v0.14.21) (2026-09-06)
 
 
 ### Maintenance
 
-* **deps:** bump the github-actions group with 2 updates ([#205](https://github.com/0xPlayerOne/model-gateway/issues/205)) ([85e351f](https://github.com/0xPlayerOne/model-gateway/commit/85e351f7fb8525491beeb178192e98411fe4a618))
+* **sync:** adopt code-foundry v1.0.4 baseline ([1d147a0](https://github.com/AndrewM-F/model-gateway/commit/1d147a04648d7d27f02d9a4cc2d2c0dc68f4ea6a))
 
-## [0.14.15](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.14...v0.14.15) (2026-08-30)
-
-
-### Maintenance
-
-* dedupe hex, benchmark grouping and auto-route fallback ([#208](https://github.com/0xPlayerOne/model-gateway/issues/208)) ([822150b](https://github.com/0xPlayerOne/model-gateway/commit/822150b92dd4709a038d59c048e49b6218b878da))
-
-## [0.14.14](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.13...v0.14.14) (2026-08-29)
+## [0.14.20](https://github.com/AndrewM-F/model-gateway/compare/v0.14.19...v0.14.20) (2026-09-06)
 
 
 ### Maintenance
 
-* **code-foundry:** sync to v0.39.0 ([#202](https://github.com/0xPlayerOne/model-gateway/issues/202)) ([24864a9](https://github.com/0xPlayerOne/model-gateway/commit/24864a9452a11444a7851292d9c98bf8b2ff5245))
+* **sync:** adopt code-foundry v1.0.3 baseline ([749c0b6](https://github.com/AndrewM-F/model-gateway/commit/749c0b6027bd84ecd02c203011ef1a8342c5c6ae))
 
-## [0.14.13](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.12...v0.14.13) (2026-08-10)
+## [0.14.19](https://github.com/AndrewM-F/model-gateway/compare/v0.14.18...v0.14.19) (2026-09-05)
+
+
+### Maintenance
+
+* batch effective price lookups and dedupe pricing helpers ([#223](https://github.com/AndrewM-F/model-gateway/issues/223)) ([8a334b8](https://github.com/AndrewM-F/model-gateway/commit/8a334b84f4959238fec8d277211b3dfa2ea435aa))
+* batch pricing coverage queries and dedupe helpers ([#220](https://github.com/AndrewM-F/model-gateway/issues/220)) ([755e290](https://github.com/AndrewM-F/model-gateway/commit/755e290e6e593ad1a199d6bcbb2a9be6c105d73c))
+* dedupe benchmark grouping and eliminate duplicate catalog query ([#214](https://github.com/AndrewM-F/model-gateway/issues/214)) ([ea1073c](https://github.com/AndrewM-F/model-gateway/commit/ea1073c21b75bb613c6f54dd93c3a731be78b928))
+* dedupe hex/permission helpers and batch catalog timestamps ([#217](https://github.com/AndrewM-F/model-gateway/issues/217)) ([49bad5d](https://github.com/AndrewM-F/model-gateway/commit/49bad5d5669dae5ba1e31f692fb9cdb94cb185a1))
+* **deps:** weekly update ([f260cce](https://github.com/AndrewM-F/model-gateway/commit/f260ccee7ab213e5570744ae15043e59af43422b))
+* **sync:** adopt code-foundry v0.40.3 baseline ([1f98a00](https://github.com/AndrewM-F/model-gateway/commit/1f98a00390b78577e58c3a8cd9b36287eaa5a690))
+
+## [0.14.18](https://github.com/AndrewM-F/model-gateway/compare/v0.14.17...v0.14.18) (2026-08-30)
+
+
+### Maintenance
+
+* identity-dedup ([#188](https://github.com/AndrewM-F/model-gateway/issues/188)) ([5ad72d0](https://github.com/AndrewM-F/model-gateway/commit/5ad72d05bab126488faff0222401799fbfd87b8c))
+
+## [0.14.17](https://github.com/AndrewM-F/model-gateway/compare/v0.14.16...v0.14.17) (2026-08-30)
+
+
+### Maintenance
+
+* **deps:** bump the cargo-dependencies group across 1 directory with 3 updates ([#206](https://github.com/AndrewM-F/model-gateway/issues/206)) ([cdab6e5](https://github.com/AndrewM-F/model-gateway/commit/cdab6e539c55fd8bffe497b860ee3529f317d841))
+
+## [0.14.16](https://github.com/AndrewM-F/model-gateway/compare/v0.14.15...v0.14.16) (2026-08-30)
+
+
+### Maintenance
+
+* **deps:** bump the github-actions group with 2 updates ([#205](https://github.com/AndrewM-F/model-gateway/issues/205)) ([85e351f](https://github.com/AndrewM-F/model-gateway/commit/85e351f7fb8525491beeb178192e98411fe4a618))
+
+## [0.14.15](https://github.com/AndrewM-F/model-gateway/compare/v0.14.14...v0.14.15) (2026-08-30)
+
+
+### Maintenance
+
+* dedupe hex, benchmark grouping and auto-route fallback ([#208](https://github.com/AndrewM-F/model-gateway/issues/208)) ([822150b](https://github.com/AndrewM-F/model-gateway/commit/822150b92dd4709a038d59c048e49b6218b878da))
+
+## [0.14.14](https://github.com/AndrewM-F/model-gateway/compare/v0.14.13...v0.14.14) (2026-08-29)
+
+
+### Maintenance
+
+* **code-foundry:** sync to v0.39.0 ([#202](https://github.com/AndrewM-F/model-gateway/issues/202)) ([24864a9](https://github.com/AndrewM-F/model-gateway/commit/24864a9452a11444a7851292d9c98bf8b2ff5245))
+
+## [0.14.13](https://github.com/AndrewM-F/model-gateway/compare/v0.14.12...v0.14.13) (2026-08-10)
 
 
 ### Bug Fixes
 
-* **ci:** make release container image build finish within timeout ([#168](https://github.com/0xPlayerOne/model-gateway/issues/168)) ([35a4f3d](https://github.com/0xPlayerOne/model-gateway/commit/35a4f3daa9bf153cbf4e40bd4943f491d631d462))
+* **ci:** make release container image build finish within timeout ([#168](https://github.com/AndrewM-F/model-gateway/issues/168)) ([35a4f3d](https://github.com/AndrewM-F/model-gateway/commit/35a4f3daa9bf153cbf4e40bd4943f491d631d462))
 
-## [0.14.12](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.11...v0.14.12) (2026-08-09)
-
-
-### Maintenance
-
-* dedupe set_unix_mode and fmt_number helpers ([#166](https://github.com/0xPlayerOne/model-gateway/issues/166)) ([be3556f](https://github.com/0xPlayerOne/model-gateway/commit/be3556f3ff0149c7e6c03bed0e65b20759afa746))
-
-## [0.14.11](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.10...v0.14.11) (2026-08-08)
+## [0.14.12](https://github.com/AndrewM-F/model-gateway/compare/v0.14.11...v0.14.12) (2026-08-09)
 
 
 ### Maintenance
 
-* **cli:** extract shared provider-filter validation ([#164](https://github.com/0xPlayerOne/model-gateway/issues/164)) ([be3f192](https://github.com/0xPlayerOne/model-gateway/commit/be3f19225ee2799ff3f56013c50b507d721280c0))
+* dedupe set_unix_mode and fmt_number helpers ([#166](https://github.com/AndrewM-F/model-gateway/issues/166)) ([be3556f](https://github.com/AndrewM-F/model-gateway/commit/be3556f3ff0149c7e6c03bed0e65b20759afa746))
 
-## [0.14.10](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.9...v0.14.10) (2026-08-08)
-
-
-### Maintenance
-
-* **code-foundry:** sync protected docs to v0.37.1 ([80ed3ec](https://github.com/0xPlayerOne/model-gateway/commit/80ed3ecfb62d79626cf488dcee9f0a248ba6d5da))
-
-## [0.14.9](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.8...v0.14.9) (2026-08-07)
+## [0.14.11](https://github.com/AndrewM-F/model-gateway/compare/v0.14.10...v0.14.11) (2026-08-08)
 
 
 ### Maintenance
 
-* **code-foundry:** pin runtime v0.37.0 ([1b1e13c](https://github.com/0xPlayerOne/model-gateway/commit/1b1e13c7473f9b6d9db0bd4ad1d7e30f67332edd))
+* **cli:** extract shared provider-filter validation ([#164](https://github.com/AndrewM-F/model-gateway/issues/164)) ([be3f192](https://github.com/AndrewM-F/model-gateway/commit/be3f19225ee2799ff3f56013c50b507d721280c0))
 
-## [0.14.8](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.7...v0.14.8) (2026-08-07)
-
-
-### Maintenance
-
-* **code-foundry:** pin runtime v0.36.1 ([65811ea](https://github.com/0xPlayerOne/model-gateway/commit/65811eae1a753030371a00ce2681a3c34253e248))
-
-## [0.14.7](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.6...v0.14.7) (2026-08-07)
+## [0.14.10](https://github.com/AndrewM-F/model-gateway/compare/v0.14.9...v0.14.10) (2026-08-08)
 
 
 ### Maintenance
 
-* **code-foundry:** remove restored staging release-pr caller (direct topology targets main) ([0839a73](https://github.com/0xPlayerOne/model-gateway/commit/0839a7353d160e5d04cab6b91a31d31ace8bbdd6))
+* **code-foundry:** sync protected docs to v0.37.1 ([80ed3ec](https://github.com/AndrewM-F/model-gateway/commit/80ed3ecfb62d79626cf488dcee9f0a248ba6d5da))
 
-## [0.14.6](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.5...v0.14.6) (2026-08-07)
+## [0.14.9](https://github.com/AndrewM-F/model-gateway/compare/v0.14.8...v0.14.9) (2026-08-07)
+
+
+### Maintenance
+
+* **code-foundry:** pin runtime v0.37.0 ([1b1e13c](https://github.com/AndrewM-F/model-gateway/commit/1b1e13c7473f9b6d9db0bd4ad1d7e30f67332edd))
+
+## [0.14.8](https://github.com/AndrewM-F/model-gateway/compare/v0.14.7...v0.14.8) (2026-08-07)
+
+
+### Maintenance
+
+* **code-foundry:** pin runtime v0.36.1 ([65811ea](https://github.com/AndrewM-F/model-gateway/commit/65811eae1a753030371a00ce2681a3c34253e248))
+
+## [0.14.7](https://github.com/AndrewM-F/model-gateway/compare/v0.14.6...v0.14.7) (2026-08-07)
+
+
+### Maintenance
+
+* **code-foundry:** remove restored staging release-pr caller (direct topology targets main) ([0839a73](https://github.com/AndrewM-F/model-gateway/commit/0839a7353d160e5d04cab6b91a31d31ace8bbdd6))
+
+## [0.14.6](https://github.com/AndrewM-F/model-gateway/compare/v0.14.5...v0.14.6) (2026-08-07)
 
 
 ### Bug Fixes
 
-* apply rustfmt formatting to src/main.rs ([f30f2fa](https://github.com/0xPlayerOne/model-gateway/commit/f30f2fa28c9f68a31140262fa2c875360d36d730))
-* **ci:** apply rustfmt to test code after race-condition fix ([dde3532](https://github.com/0xPlayerOne/model-gateway/commit/dde35323fcff3cbdeb9efce26940a1ae2739944e))
-* **ci:** restore release-pr.yml workflow for staging promotion ([2ce4689](https://github.com/0xPlayerOne/model-gateway/commit/2ce46898bf844a4b6d8c637985a086583285333c))
-* **ci:** trigger validation workflow on staging PRs ([fb392d4](https://github.com/0xPlayerOne/model-gateway/commit/fb392d4d70fef95641a2c0827e01a727709f8da6))
-* **test:** eliminate race condition in secret apply/rollback tests ([3763148](https://github.com/0xPlayerOne/model-gateway/commit/376314858b93efdc9577f0c504043ff56f9bca5d))
+* apply rustfmt formatting to src/main.rs ([f30f2fa](https://github.com/AndrewM-F/model-gateway/commit/f30f2fa28c9f68a31140262fa2c875360d36d730))
+* **ci:** apply rustfmt to test code after race-condition fix ([dde3532](https://github.com/AndrewM-F/model-gateway/commit/dde35323fcff3cbdeb9efce26940a1ae2739944e))
+* **ci:** restore release-pr.yml workflow for staging promotion ([2ce4689](https://github.com/AndrewM-F/model-gateway/commit/2ce46898bf844a4b6d8c637985a086583285333c))
+* **ci:** trigger validation workflow on staging PRs ([fb392d4](https://github.com/AndrewM-F/model-gateway/commit/fb392d4d70fef95641a2c0827e01a727709f8da6))
+* **test:** eliminate race condition in secret apply/rollback tests ([3763148](https://github.com/AndrewM-F/model-gateway/commit/376314858b93efdc9577f0c504043ff56f9bca5d))
 
 
 ### Tests
 
-* **main:** cover secret apply/rollback paths in CLI ([d66a369](https://github.com/0xPlayerOne/model-gateway/commit/d66a36913bcb06cb6c68a16dd267abf84f2ecdf5))
+* **main:** cover secret apply/rollback paths in CLI ([d66a369](https://github.com/AndrewM-F/model-gateway/commit/d66a36913bcb06cb6c68a16dd267abf84f2ecdf5))
 
 
 ### Maintenance
 
-* **deps:** weekly update ([361a866](https://github.com/0xPlayerOne/model-gateway/commit/361a866a394ba17557b5f09e8a551bc51b83bb0e))
+* **deps:** weekly update ([361a866](https://github.com/AndrewM-F/model-gateway/commit/361a866a394ba17557b5f09e8a551bc51b83bb0e))
 
-## [0.14.5](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.4...v0.14.5) (2026-08-07)
+## [0.14.5](https://github.com/AndrewM-F/model-gateway/compare/v0.14.4...v0.14.5) (2026-08-07)
 
 
 ### Bug Fixes
 
-* drop staging trigger from opencode-security ([f4bd60b](https://github.com/0xPlayerOne/model-gateway/commit/f4bd60bd07bc80f227201d5073929dd98680b617))
+* drop staging trigger from opencode-security ([f4bd60b](https://github.com/AndrewM-F/model-gateway/commit/f4bd60bd07bc80f227201d5073929dd98680b617))
 
 
 ### Maintenance
 
-* **code-foundry:** flip to direct main workflow, pin runtime v0.36.0 ([ee41082](https://github.com/0xPlayerOne/model-gateway/commit/ee41082b986ab69aad139d84a0f74f5d73f09b3e))
+* **code-foundry:** flip to direct main workflow, pin runtime v0.36.0 ([ee41082](https://github.com/AndrewM-F/model-gateway/commit/ee41082b986ab69aad139d84a0f74f5d73f09b3e))
 
-## [0.14.4](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.3...v0.14.4) (2026-08-03)
-
-
-### Maintenance
-
-* **ci:** align Code Foundry release policy ([#142](https://github.com/0xPlayerOne/model-gateway/issues/142)) ([b74ae0e](https://github.com/0xPlayerOne/model-gateway/commit/b74ae0e8fe1ded4f01e49cb14aa5cb25e02c90b0))
-
-## [0.14.3](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.2...v0.14.3) (2026-08-03)
+## [0.14.4](https://github.com/AndrewM-F/model-gateway/compare/v0.14.3...v0.14.4) (2026-08-03)
 
 
 ### Maintenance
 
-* **staging:** align branch with main ([2670ace](https://github.com/0xPlayerOne/model-gateway/commit/2670aced0e21186c9b864c7339dbd1839f2d8ed2))
+* **ci:** align Code Foundry release policy ([#142](https://github.com/AndrewM-F/model-gateway/issues/142)) ([b74ae0e](https://github.com/AndrewM-F/model-gateway/commit/b74ae0e8fe1ded4f01e49cb14aa5cb25e02c90b0))
 
-## [0.14.2](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.1...v0.14.2) (2026-08-02)
+## [0.14.3](https://github.com/AndrewM-F/model-gateway/compare/v0.14.2...v0.14.3) (2026-08-03)
+
+
+### Maintenance
+
+* **staging:** align branch with main ([2670ace](https://github.com/AndrewM-F/model-gateway/commit/2670aced0e21186c9b864c7339dbd1839f2d8ed2))
+
+## [0.14.2](https://github.com/AndrewM-F/model-gateway/compare/v0.14.1...v0.14.2) (2026-08-02)
 
 
 ### Bug Fixes
 
-* **ci:** align release toolchain with sqlite dependencies ([a5a6c3e](https://github.com/0xPlayerOne/model-gateway/commit/a5a6c3efeb7d6ad920dd0bb1e147feb3181de751))
-* **release:** version the OpenAPI contract ([ebed12c](https://github.com/0xPlayerOne/model-gateway/commit/ebed12cdcecab8b9682561acd6542dd806f92429))
+* **ci:** align release toolchain with sqlite dependencies ([a5a6c3e](https://github.com/AndrewM-F/model-gateway/commit/a5a6c3efeb7d6ad920dd0bb1e147feb3181de751))
+* **release:** version the OpenAPI contract ([ebed12c](https://github.com/AndrewM-F/model-gateway/commit/ebed12cdcecab8b9682561acd6542dd806f92429))
 
-## [0.14.1](https://github.com/0xPlayerOne/model-gateway/compare/v0.14.0...v0.14.1) (2026-08-02)
+## [0.14.1](https://github.com/AndrewM-F/model-gateway/compare/v0.14.0...v0.14.1) (2026-08-02)
 
 
 ### Bug Fixes
 
-* **ci:** skip optional scans for release metadata ([9ee29a2](https://github.com/0xPlayerOne/model-gateway/commit/9ee29a2fc1af541d95146f3f91c05e86a08a78a7))
-* **release:** configure root manifest package ([5f6f9ce](https://github.com/0xPlayerOne/model-gateway/commit/5f6f9ce624f0cd63739d4ef29d50999b43fea14c))
+* **ci:** skip optional scans for release metadata ([9ee29a2](https://github.com/AndrewM-F/model-gateway/commit/9ee29a2fc1af541d95146f3f91c05e86a08a78a7))
+* **release:** configure root manifest package ([5f6f9ce](https://github.com/AndrewM-F/model-gateway/commit/5f6f9ce624f0cd63739d4ef29d50999b43fea14c))
 
 
 ### Performance
 
-* **gateway:** offload routing reads and invalidate catalog cache ([4e8eba1](https://github.com/0xPlayerOne/model-gateway/commit/4e8eba18b91b6d5d38e1bf4d07690843a811ce7f))
+* **gateway:** offload routing reads and invalidate catalog cache ([4e8eba1](https://github.com/AndrewM-F/model-gateway/commit/4e8eba18b91b6d5d38e1bf4d07690843a811ce7f))
 
 
 ### CI
 
-* **release:** publish versioned artifacts ([0b21109](https://github.com/0xPlayerOne/model-gateway/commit/0b21109f9badc3542aad33c62210f3e412928947))
+* **release:** publish versioned artifacts ([0b21109](https://github.com/AndrewM-F/model-gateway/commit/0b21109f9badc3542aad33c62210f3e412928947))
 
-## [0.14.0](https://github.com/0xPlayerOne/model-gateway/compare/v0.13.0...v0.14.0) (2026-08-02)
-
-### Features
-
-* **api:** add deterministic field projection, cursor pagination, model links, and conditional catalog retrieval ([6f99e02](https://github.com/0xPlayerOne/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
-* **runtime:** add explicit CLIProxy port configuration, OAuth readiness diagnostics, and supervised launchers ([6f99e02](https://github.com/0xPlayerOne/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
-
-### Performance Improvements
-
-* **catalog:** derive list validators from request dimensions and return conditional responses before materializing catalog data ([6f99e02](https://github.com/0xPlayerOne/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
-
-### Bug Fixes
-
-* **api:** preserve stable `Last-Modified` values when benchmark timestamps are unavailable ([6f99e02](https://github.com/0xPlayerOne/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
-* **build:** align the container builder with the repository Rust toolchain and include the OpenAPI contract in the image ([6f99e02](https://github.com/0xPlayerOne/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
-
-### Documentation
-
-* **docs:** clarify catalog response shapes, benchmark provenance, provider readiness, and startup behavior ([6f99e02](https://github.com/0xPlayerOne/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
-
-## [0.13.0](https://github.com/0xPlayerOne/model-gateway/compare/v0.12.0...v0.13.0) (2026-08-02)
-
+## [0.14.0](https://github.com/AndrewM-F/model-gateway/compare/v0.13.0...v0.14.0) (2026-08-02)
 
 ### Features
 
-* **api:** provide compact model resources with links, deterministic field selection, cursor pagination, and conditional caching ([#103](https://github.com/0xPlayerOne/model-gateway/pull/103))
-* **catalog:** expose reasoning-effort-specific quality, benchmark, and pricing metadata ([#103](https://github.com/0xPlayerOne/model-gateway/pull/103))
-* **cli:** manage CLIProxyAPI setup, OAuth supervision, explicit secret stores, and readiness checks ([#103](https://github.com/0xPlayerOne/model-gateway/pull/103))
+* **api:** add deterministic field projection, cursor pagination, model links, and conditional catalog retrieval ([6f99e02](https://github.com/AndrewM-F/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
+* **runtime:** add explicit CLIProxy port configuration, OAuth readiness diagnostics, and supervised launchers ([6f99e02](https://github.com/AndrewM-F/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
 
 ### Performance Improvements
 
-* **catalog:** reuse normalized identity indexes and short-lived snapshots during reconciliation and catalog assembly ([#103](https://github.com/0xPlayerOne/model-gateway/pull/103))
-* **identity:** fetch identity sources concurrently ([#97](https://github.com/0xPlayerOne/model-gateway/issues/97)) ([5839314](https://github.com/0xPlayerOne/model-gateway/commit/583931457fe62176c038e9650824d326b59adf65))
+* **catalog:** derive list validators from request dimensions and return conditional responses before materializing catalog data ([6f99e02](https://github.com/AndrewM-F/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
 
 ### Bug Fixes
 
-* **routing:** use measured benchmark signals and latency-aware Pareto selection for automatic model routing ([#103](https://github.com/0xPlayerOne/model-gateway/pull/103))
-* **security:** avoid logging secret-derived CLIProxy metadata ([#105](https://github.com/0xPlayerOne/model-gateway/pull/105))
+* **api:** preserve stable `Last-Modified` values when benchmark timestamps are unavailable ([6f99e02](https://github.com/AndrewM-F/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
+* **build:** align the container builder with the repository Rust toolchain and include the OpenAPI contract in the image ([6f99e02](https://github.com/AndrewM-F/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
 
 ### Documentation
 
-* **docs:** clarify installation, startup responsibilities, OAuth setup, catalog fields, pagination, and caching ([#103](https://github.com/0xPlayerOne/model-gateway/pull/103))
+* **docs:** clarify catalog response shapes, benchmark provenance, provider readiness, and startup behavior ([6f99e02](https://github.com/AndrewM-F/model-gateway/commit/6f99e0277e75e45957ad9ae26ad2a0175cde1a23))
+
+## [0.13.0](https://github.com/AndrewM-F/model-gateway/compare/v0.12.0...v0.13.0) (2026-08-02)
+
+
+### Features
+
+* **api:** provide compact model resources with links, deterministic field selection, cursor pagination, and conditional caching ([#103](https://github.com/AndrewM-F/model-gateway/pull/103))
+* **catalog:** expose reasoning-effort-specific quality, benchmark, and pricing metadata ([#103](https://github.com/AndrewM-F/model-gateway/pull/103))
+* **cli:** manage CLIProxyAPI setup, OAuth supervision, explicit secret stores, and readiness checks ([#103](https://github.com/AndrewM-F/model-gateway/pull/103))
+
+### Performance Improvements
+
+* **catalog:** reuse normalized identity indexes and short-lived snapshots during reconciliation and catalog assembly ([#103](https://github.com/AndrewM-F/model-gateway/pull/103))
+* **identity:** fetch identity sources concurrently ([#97](https://github.com/AndrewM-F/model-gateway/issues/97)) ([5839314](https://github.com/AndrewM-F/model-gateway/commit/583931457fe62176c038e9650824d326b59adf65))
+
+### Bug Fixes
+
+* **routing:** use measured benchmark signals and latency-aware Pareto selection for automatic model routing ([#103](https://github.com/AndrewM-F/model-gateway/pull/103))
+* **security:** avoid logging secret-derived CLIProxy metadata ([#105](https://github.com/AndrewM-F/model-gateway/pull/105))
+
+### Documentation
+
+* **docs:** clarify installation, startup responsibilities, OAuth setup, catalog fields, pagination, and caching ([#103](https://github.com/AndrewM-F/model-gateway/pull/103))
 
 ### CI
 
-* **ci:** replace stale validation callers with a tiered Code Foundry workflow and a single required gate ([#103](https://github.com/0xPlayerOne/model-gateway/pull/103))
+* **ci:** replace stale validation callers with a tiered Code Foundry workflow and a single required gate ([#103](https://github.com/AndrewM-F/model-gateway/pull/103))
 
-## [0.12.0](https://github.com/0xPlayerOne/model-gateway/compare/v0.11.0...v0.12.0) (2026-07-29)
+## [0.12.0](https://github.com/AndrewM-F/model-gateway/compare/v0.11.0...v0.12.0) (2026-07-29)
 
 
 ### Features
 
-* **api:** add compact linked model resources ([#56](https://github.com/0xPlayerOne/model-gateway/issues/56)) ([055b2b6](https://github.com/0xPlayerOne/model-gateway/commit/055b2b6957f21fc67a629c4f99e4dec68b7efb77))
-* **api:** add compact linked model resources ([#56](https://github.com/0xPlayerOne/model-gateway/issues/56)) ([1f6387a](https://github.com/0xPlayerOne/model-gateway/commit/1f6387a521a43193fb0196e2186ea01e5438ed9f))
-* **api:** expose benchmark metrics in model resources ([0a8beeb](https://github.com/0xPlayerOne/model-gateway/commit/0a8beebbb7aa0dbba3f5c851607456c5e9432393))
-* **api:** expose benchmark metrics in model resources ([b1291ca](https://github.com/0xPlayerOne/model-gateway/commit/b1291caaaf2440c79c8f92bea82748dfe42bfa31))
-* **api:** retire legacy catalog routes ([8073e3f](https://github.com/0xPlayerOne/model-gateway/commit/8073e3fba845e885f1c2e0604160b7e347f15ed1))
-* **api:** retire legacy catalog routes ([#61](https://github.com/0xPlayerOne/model-gateway/issues/61)) ([90142ca](https://github.com/0xPlayerOne/model-gateway/commit/90142ca6aa7894a9fa15985d0e479137231e75f0))
-* **api:** unify catalog discovery resources ([#58](https://github.com/0xPlayerOne/model-gateway/issues/58)) ([dce5f6e](https://github.com/0xPlayerOne/model-gateway/commit/dce5f6e3f1d195d2e13ac3060a4d213f059b338a))
-* **catalog:** expand reasoning effort variants ([cb1d99c](https://github.com/0xPlayerOne/model-gateway/commit/cb1d99cd3b0b5ccc41446abef789161c95ac230d))
-* **catalog:** expand reasoning effort variants ([1af8c6d](https://github.com/0xPlayerOne/model-gateway/commit/1af8c6d7032a256d84875d87cc8c4df295eea49c))
-* **cli:** manage CLIProxyAPI as a background service ([#75](https://github.com/0xPlayerOne/model-gateway/issues/75)) ([fab9ea0](https://github.com/0xPlayerOne/model-gateway/commit/fab9ea04d94807f59899011a48eb13e0ff10b065))
-* reduce code-foundry consumer footprint ([0b5b08b](https://github.com/0xPlayerOne/model-gateway/commit/0b5b08be48778462527ff1946a84370b22729b91))
-* reduce code-foundry consumer footprint ([b687df8](https://github.com/0xPlayerOne/model-gateway/commit/b687df82dff2c2c880ac5b4ad21fb7e4faf1049a))
-* **routing:** prioritize latency on frontier ([ad8e021](https://github.com/0xPlayerOne/model-gateway/commit/ad8e021bcf86e597a0db7a39c0772166a16145fc))
-* **routing:** prioritize latency on frontier ([f2f30f9](https://github.com/0xPlayerOne/model-gateway/commit/f2f30f9f5e6bce9773ae9171db36c120f077fb4e))
-* **routing:** raise frontier quality floor ([d54a473](https://github.com/0xPlayerOne/model-gateway/commit/d54a47315ffdf127ead02ce0effaabaa64b4def0))
-* **routing:** raise frontier quality floor ([9ad0938](https://github.com/0xPlayerOne/model-gateway/commit/9ad09380657df5b24ec4bc50b1483f526ac4b620))
-* **routing:** use measured task cost for frontiers ([e028aa0](https://github.com/0xPlayerOne/model-gateway/commit/e028aa020dbd915b50ed63526378ec282121479e))
-* **routing:** use measured task cost for frontiers ([85f35fd](https://github.com/0xPlayerOne/model-gateway/commit/85f35fdf8a37bb9c8ac08687a7dcb5d3301af6fb))
+* **api:** add compact linked model resources ([#56](https://github.com/AndrewM-F/model-gateway/issues/56)) ([055b2b6](https://github.com/AndrewM-F/model-gateway/commit/055b2b6957f21fc67a629c4f99e4dec68b7efb77))
+* **api:** add compact linked model resources ([#56](https://github.com/AndrewM-F/model-gateway/issues/56)) ([1f6387a](https://github.com/AndrewM-F/model-gateway/commit/1f6387a521a43193fb0196e2186ea01e5438ed9f))
+* **api:** expose benchmark metrics in model resources ([0a8beeb](https://github.com/AndrewM-F/model-gateway/commit/0a8beebbb7aa0dbba3f5c851607456c5e9432393))
+* **api:** expose benchmark metrics in model resources ([b1291ca](https://github.com/AndrewM-F/model-gateway/commit/b1291caaaf2440c79c8f92bea82748dfe42bfa31))
+* **api:** retire legacy catalog routes ([8073e3f](https://github.com/AndrewM-F/model-gateway/commit/8073e3fba845e885f1c2e0604160b7e347f15ed1))
+* **api:** retire legacy catalog routes ([#61](https://github.com/AndrewM-F/model-gateway/issues/61)) ([90142ca](https://github.com/AndrewM-F/model-gateway/commit/90142ca6aa7894a9fa15985d0e479137231e75f0))
+* **api:** unify catalog discovery resources ([#58](https://github.com/AndrewM-F/model-gateway/issues/58)) ([dce5f6e](https://github.com/AndrewM-F/model-gateway/commit/dce5f6e3f1d195d2e13ac3060a4d213f059b338a))
+* **catalog:** expand reasoning effort variants ([cb1d99c](https://github.com/AndrewM-F/model-gateway/commit/cb1d99cd3b0b5ccc41446abef789161c95ac230d))
+* **catalog:** expand reasoning effort variants ([1af8c6d](https://github.com/AndrewM-F/model-gateway/commit/1af8c6d7032a256d84875d87cc8c4df295eea49c))
+* **cli:** manage CLIProxyAPI as a background service ([#75](https://github.com/AndrewM-F/model-gateway/issues/75)) ([fab9ea0](https://github.com/AndrewM-F/model-gateway/commit/fab9ea04d94807f59899011a48eb13e0ff10b065))
+* reduce code-foundry consumer footprint ([0b5b08b](https://github.com/AndrewM-F/model-gateway/commit/0b5b08be48778462527ff1946a84370b22729b91))
+* reduce code-foundry consumer footprint ([b687df8](https://github.com/AndrewM-F/model-gateway/commit/b687df82dff2c2c880ac5b4ad21fb7e4faf1049a))
+* **routing:** prioritize latency on frontier ([ad8e021](https://github.com/AndrewM-F/model-gateway/commit/ad8e021bcf86e597a0db7a39c0772166a16145fc))
+* **routing:** prioritize latency on frontier ([f2f30f9](https://github.com/AndrewM-F/model-gateway/commit/f2f30f9f5e6bce9773ae9171db36c120f077fb4e))
+* **routing:** raise frontier quality floor ([d54a473](https://github.com/AndrewM-F/model-gateway/commit/d54a47315ffdf127ead02ce0effaabaa64b4def0))
+* **routing:** raise frontier quality floor ([9ad0938](https://github.com/AndrewM-F/model-gateway/commit/9ad09380657df5b24ec4bc50b1483f526ac4b620))
+* **routing:** use measured task cost for frontiers ([e028aa0](https://github.com/AndrewM-F/model-gateway/commit/e028aa020dbd915b50ed63526378ec282121479e))
+* **routing:** use measured task cost for frontiers ([85f35fd](https://github.com/AndrewM-F/model-gateway/commit/85f35fdf8a37bb9c8ac08687a7dcb5d3301af6fb))
 
 
 ### Bug Fixes
 
-* **api:** expose current models and contract routes ([#76](https://github.com/0xPlayerOne/model-gateway/issues/76)) ([f515fff](https://github.com/0xPlayerOne/model-gateway/commit/f515fff601c97692ba4ef88f03612dc3b537c69f))
-* **api:** harden release behavior and compact summaries ([4991136](https://github.com/0xPlayerOne/model-gateway/commit/49911363f9b2e2746f5de4b22df0321cf0a17812))
-* **ci:** remove unused Python validation profile ([38693c6](https://github.com/0xPlayerOne/model-gateway/commit/38693c6194fd22838854a8cecc30081f7496b74d))
-* remove obsolete consumer helper ([5293809](https://github.com/0xPlayerOne/model-gateway/commit/52938093c654d408fd6c9271abcfde57894592e1))
-* remove obsolete consumer helper ([4b0bd55](https://github.com/0xPlayerOne/model-gateway/commit/4b0bd55edf4a7beaa9251f3455244fb90502da49))
-* **routing:** separate measured and estimated task costs ([df2a276](https://github.com/0xPlayerOne/model-gateway/commit/df2a27680a33de5556fc91170f7fd9c91031071e))
-* **routing:** separate measured and estimated task costs ([4a143d3](https://github.com/0xPlayerOne/model-gateway/commit/4a143d35bfb5f5f81684a0ccb81373f37a4d8c73))
+* **api:** expose current models and contract routes ([#76](https://github.com/AndrewM-F/model-gateway/issues/76)) ([f515fff](https://github.com/AndrewM-F/model-gateway/commit/f515fff601c97692ba4ef88f03612dc3b537c69f))
+* **api:** harden release behavior and compact summaries ([4991136](https://github.com/AndrewM-F/model-gateway/commit/49911363f9b2e2746f5de4b22df0321cf0a17812))
+* **ci:** remove unused Python validation profile ([38693c6](https://github.com/AndrewM-F/model-gateway/commit/38693c6194fd22838854a8cecc30081f7496b74d))
+* remove obsolete consumer helper ([5293809](https://github.com/AndrewM-F/model-gateway/commit/52938093c654d408fd6c9271abcfde57894592e1))
+* remove obsolete consumer helper ([4b0bd55](https://github.com/AndrewM-F/model-gateway/commit/4b0bd55edf4a7beaa9251f3455244fb90502da49))
+* **routing:** separate measured and estimated task costs ([df2a276](https://github.com/AndrewM-F/model-gateway/commit/df2a27680a33de5556fc91170f7fd9c91031071e))
+* **routing:** separate measured and estimated task costs ([4a143d3](https://github.com/AndrewM-F/model-gateway/commit/4a143d35bfb5f5f81684a0ccb81373f37a4d8c73))
 
-## [0.11.0](https://github.com/0xPlayerOne/model-gateway/compare/v0.10.1...v0.11.0) (2026-07-28)
+## [0.11.0](https://github.com/AndrewM-F/model-gateway/compare/v0.10.1...v0.11.0) (2026-07-28)
 
 
 ### Features
 
-* preserve cache pricing metadata ([402d818](https://github.com/0xPlayerOne/model-gateway/commit/402d8182ecbae4b18f74baf6fa14dd49abcd05a2))
+* preserve cache pricing metadata ([402d818](https://github.com/AndrewM-F/model-gateway/commit/402d8182ecbae4b18f74baf6fa14dd49abcd05a2))
 
-## [0.10.1](https://github.com/0xPlayerOne/model-gateway/compare/v0.10.0...v0.10.1) (2026-07-28)
+## [0.10.1](https://github.com/AndrewM-F/model-gateway/compare/v0.10.0...v0.10.1) (2026-07-28)
 
 
 ### Bug Fixes
 
-* cover canonical price observation mapping ([bc89370](https://github.com/0xPlayerOne/model-gateway/commit/bc89370a793e12d1ea15fe48f8bf312a0aae9507))
-* cover canonical price observation mapping ([e92fb4b](https://github.com/0xPlayerOne/model-gateway/commit/e92fb4bcf54b76999ce5b5259e50887b10efc1fb))
+* cover canonical price observation mapping ([bc89370](https://github.com/AndrewM-F/model-gateway/commit/bc89370a793e12d1ea15fe48f8bf312a0aae9507))
+* cover canonical price observation mapping ([e92fb4b](https://github.com/AndrewM-F/model-gateway/commit/e92fb4bcf54b76999ce5b5259e50887b10efc1fb))
 
-## [0.10.0](https://github.com/0xPlayerOne/model-gateway/compare/v0.9.0...v0.10.0) (2026-07-28)
-
-
-### Features
-
-* improve model reconciliation and pricing coverage ([8d43001](https://github.com/0xPlayerOne/model-gateway/commit/8d430017c6e10b7e7553c3ffdbe1dde9b6725908))
-
-## [0.9.0](https://github.com/0xPlayerOne/model-gateway/compare/v0.8.0...v0.9.0) (2026-07-28)
+## [0.10.0](https://github.com/AndrewM-F/model-gateway/compare/v0.9.0...v0.10.0) (2026-07-28)
 
 
 ### Features
 
-* add OAuth subscription sidecar ([7eaa3c9](https://github.com/0xPlayerOne/model-gateway/commit/7eaa3c96e1bca3c9ad566164b74548ce157345ab))
+* improve model reconciliation and pricing coverage ([8d43001](https://github.com/AndrewM-F/model-gateway/commit/8d430017c6e10b7e7553c3ffdbe1dde9b6725908))
+
+## [0.9.0](https://github.com/AndrewM-F/model-gateway/compare/v0.8.0...v0.9.0) (2026-07-28)
+
+
+### Features
+
+* add OAuth subscription sidecar ([7eaa3c9](https://github.com/AndrewM-F/model-gateway/commit/7eaa3c96e1bca3c9ad566164b74548ce157345ab))
 
 
 ### Bug Fixes
 
-* avoid OAuth metadata logging ([5e8161d](https://github.com/0xPlayerOne/model-gateway/commit/5e8161d88dd6e3e1689a61034522d9ec745eb127))
-* avoid OAuth metadata logging ([5131280](https://github.com/0xPlayerOne/model-gateway/commit/51312803f80aa1304a64af76feae34291946b8b7))
-* **security:** provide stable Python audit gate ([770dff7](https://github.com/0xPlayerOne/model-gateway/commit/770dff77b9e5b87589758b267ce1f272077722b1))
+* avoid OAuth metadata logging ([5e8161d](https://github.com/AndrewM-F/model-gateway/commit/5e8161d88dd6e3e1689a61034522d9ec745eb127))
+* avoid OAuth metadata logging ([5131280](https://github.com/AndrewM-F/model-gateway/commit/51312803f80aa1304a64af76feae34291946b8b7))
+* **security:** provide stable Python audit gate ([770dff7](https://github.com/AndrewM-F/model-gateway/commit/770dff77b9e5b87589758b267ce1f272077722b1))
 
 
 ### Performance Improvements
 
-* **security:** use preinstalled Rust toolchain ([f8424c8](https://github.com/0xPlayerOne/model-gateway/commit/f8424c8e5168354a8bce7d90cd87a09da76b2e5b))
+* **security:** use preinstalled Rust toolchain ([f8424c8](https://github.com/AndrewM-F/model-gateway/commit/f8424c8e5168354a8bce7d90cd87a09da76b2e5b))
 
-## [0.8.0](https://github.com/0xPlayerOne/model-gateway/compare/v0.7.0...v0.8.0) (2026-07-28)
-
-
-### Features
-
-* distinguish free-tier access from zero pricing ([dc886bb](https://github.com/0xPlayerOne/model-gateway/commit/dc886bbbd4c2eb71bbf7909310fbf995274fa5a9))
-
-
-### Bug Fixes
-
-* **security:** skip unchanged ecosystem audits ([5f61fac](https://github.com/0xPlayerOne/model-gateway/commit/5f61fac3f8a8f19d31797bf0689ff2bcfb4f1827))
-
-
-### Performance Improvements
-
-* **ci:** avoid formatter probe overhead ([a67c708](https://github.com/0xPlayerOne/model-gateway/commit/a67c708cfea80a32f69c5dd7f97c74c40bb214ba))
-* **ci:** bootstrap direct prettier ([7be371a](https://github.com/0xPlayerOne/model-gateway/commit/7be371a15b3db87a9c4cf84ed302823d378f3ef0))
-* **ci:** skip Bun cache archives for workspaces ([2a3052b](https://github.com/0xPlayerOne/model-gateway/commit/2a3052b44e34214b17f5b5710117ee19cec5508a))
-* **ci:** skip installs on turbo cache hits ([c5eb8f4](https://github.com/0xPlayerOne/model-gateway/commit/c5eb8f466b03d1ac2f5cf212190eef43770a3127))
-* **security:** guard empty Python audit matrix ([65d09e6](https://github.com/0xPlayerOne/model-gateway/commit/65d09e6f000d83c9c4169d72af75d9471885831c))
-* **template:** speed up CodeQL detection ([5d2c0d2](https://github.com/0xPlayerOne/model-gateway/commit/5d2c0d215ad9f08fd6cbecbea9f9a6b373cb6144))
-* **template:** use current Turbo remote cache mode ([36ab7d5](https://github.com/0xPlayerOne/model-gateway/commit/36ab7d5b883a774e583ec7c0413c8dccd99354f9))
-
-## [0.7.0](https://github.com/0xPlayerOne/model-gateway/compare/v0.6.0...v0.7.0) (2026-07-28)
+## [0.8.0](https://github.com/AndrewM-F/model-gateway/compare/v0.7.0...v0.8.0) (2026-07-28)
 
 
 ### Features
 
-* add source-backed model identity registry ([3b93a3e](https://github.com/0xPlayerOne/model-gateway/commit/3b93a3ebdaf7733c0c9bec10d9983d02aad629ee))
-* aggregate provider-scoped model pricing ([fa85e71](https://github.com/0xPlayerOne/model-gateway/commit/fa85e718f5c98fd5df79c2521e211582d7eaca8c))
+* distinguish free-tier access from zero pricing ([dc886bb](https://github.com/AndrewM-F/model-gateway/commit/dc886bbbd4c2eb71bbf7909310fbf995274fa5a9))
 
 
 ### Bug Fixes
 
-* **cache:** detect restored Bun installs ([3a9dedd](https://github.com/0xPlayerOne/model-gateway/commit/3a9deddc9615c74685859f3cfd8a1a08cd8deb13))
-* **cache:** require exact Bun dependency matches ([7103e4d](https://github.com/0xPlayerOne/model-gateway/commit/7103e4db207b19efa45030ac8900e4946ae8c52a))
-* **ci:** activate build cache for build task ([e71c671](https://github.com/0xPlayerOne/model-gateway/commit/e71c671f05ae36df75ed1eb7d55b329568a63e37))
-* **ci:** always activate detected build cache ([a2f0ed7](https://github.com/0xPlayerOne/model-gateway/commit/a2f0ed7056cd81c916a241f732253fbd34f25981))
-* **ci:** stabilize Python audit status ([538e601](https://github.com/0xPlayerOne/model-gateway/commit/538e601fb5dc8cf2b665249d80ea4b88431b8ba5))
-* **codeql:** restore valid matrix workflow ([30181c5](https://github.com/0xPlayerOne/model-gateway/commit/30181c57bcc5e6f29c430a9d4485df2111b8697d))
-* correct project name in license ([324eb23](https://github.com/0xPlayerOne/model-gateway/commit/324eb23e785d32da9ecd72c7a53b03ffcc06e56d))
-* detect native Bun coverage runners ([d3cda4e](https://github.com/0xPlayerOne/model-gateway/commit/d3cda4ebbfe293d938bcbffbf1a05f154d4c06d9))
-* enforce aggregate coverage in CI ([e635361](https://github.com/0xPlayerOne/model-gateway/commit/e635361ba1dd353c1be9fc0e2eaeae332cc184f5))
-* enforce function and line coverage ([9436163](https://github.com/0xPlayerOne/model-gateway/commit/94361631e17712193109cd3b67c8f46a1cbc2b47))
-* hermetic CLI tests + deduplicate civil_from_days ([#15](https://github.com/0xPlayerOne/model-gateway/issues/15)) ([41c9bc8](https://github.com/0xPlayerOne/model-gateway/commit/41c9bc83f2a511a7912bfee1257a09594a1ba167))
-* ignore shared helper files in language detection ([ba5e093](https://github.com/0xPlayerOne/model-gateway/commit/ba5e0935d9e9bbd053d92c37685a44758429ee6e))
-* install Rust CI components ([72f2600](https://github.com/0xPlayerOne/model-gateway/commit/72f2600a2c22f50b008458010fd41474550e326d))
-* install rustfmt and clippy components in CI workflow ([89bd6d2](https://github.com/0xPlayerOne/model-gateway/commit/89bd6d2d49fbbb2639a617280ed687dd66b8fad9))
-* isolate Python coverage from mise environment ([87d0cbe](https://github.com/0xPlayerOne/model-gateway/commit/87d0cbe120b2fc5233f675c8fc5ee1c124cd85b7))
-* isolate Python coverage sysconfig workaround ([3bd29f8](https://github.com/0xPlayerOne/model-gateway/commit/3bd29f81a86d810f665ae482e7a8fb8453bf0970))
-* make benchmark identity matching fail closed ([2d02eeb](https://github.com/0xPlayerOne/model-gateway/commit/2d02eeb40f3bc450c5eac4aa2968de37b3612b0e))
-* pass explicit Python coverage sources ([033d26e](https://github.com/0xPlayerOne/model-gateway/commit/033d26e79cc53b7043ae4e1d2e56110f21075301))
-* preserve free pricing and fallback depth ([1516237](https://github.com/0xPlayerOne/model-gateway/commit/151623783445fadce86075cd905791a2c09a4b75))
-* restore 2-space indent on release body bullet ([24c2bc1](https://github.com/0xPlayerOne/model-gateway/commit/24c2bc1a9a473847a1b357a395d17ef019fa0147))
-* restore dependabot open-pull-requests-limit ([193f292](https://github.com/0xPlayerOne/model-gateway/commit/193f292d308d37ad1234a12929758f70d9bf2994))
-* restore release artifact pipeline ([784a9db](https://github.com/0xPlayerOne/model-gateway/commit/784a9dbcfedba4e302305ee1d5d691d19ebc8a58))
-* **security:** audit conflicting Python manifests independently ([0f14729](https://github.com/0xPlayerOne/model-gateway/commit/0f147294a8e01b3689a1c67e2ab4db609f87ab69))
-* **security:** detect all Python requirement manifests ([88fb79b](https://github.com/0xPlayerOne/model-gateway/commit/88fb79bfea86221b8b193a3a359329bd34fc6701))
-* **security:** name skipped Python audits clearly ([fca2490](https://github.com/0xPlayerOne/model-gateway/commit/fca2490ae67793492bb63f37cc1f5fcdda7dbbdf))
-* **security:** restore stable Python audit check ([56926ea](https://github.com/0xPlayerOne/model-gateway/commit/56926eaed3a79e5d8ff084aa1cb974a92671a752))
-* **setup:** correct action yaml indentation ([33236d3](https://github.com/0xPlayerOne/model-gateway/commit/33236d3e8c9bdf39ec3af984b01af73a53b8834e))
-* **setup:** pin uv action for Python workflows ([5267bcb](https://github.com/0xPlayerOne/model-gateway/commit/5267bcb25d17535af8de71ec9ad554b4c6bde473))
-* stabilize coverage and dependency audits ([8c1b040](https://github.com/0xPlayerOne/model-gateway/commit/8c1b04001029c705e8a9f097cf8273a6c4e161f5))
-* support macOS bash in CI helpers ([84c53f4](https://github.com/0xPlayerOne/model-gateway/commit/84c53f4385c9edaba5e49d2b7be7d103deb19c6f))
-* support native and jest coverage reports ([821be87](https://github.com/0xPlayerOne/model-gateway/commit/821be870839de79d7152946b4027428685f081e2))
-* use workflow token for release PRs ([2757446](https://github.com/0xPlayerOne/model-gateway/commit/2757446946da7389269e6cd5a0299bbe4621e013))
+* **security:** skip unchanged ecosystem audits ([5f61fac](https://github.com/AndrewM-F/model-gateway/commit/5f61fac3f8a8f19d31797bf0689ff2bcfb4f1827))
 
 
 ### Performance Improvements
 
-* **cache:** allow measured Bun package overrides ([a7bb70f](https://github.com/0xPlayerOne/model-gateway/commit/a7bb70f1da5b01f65b61fb7b999298b0bcc298be))
-* **cache:** avoid duplicate parallel saves ([c7cda3d](https://github.com/0xPlayerOne/model-gateway/commit/c7cda3d77c9f15d481f4d548ead10f392015d06c))
-* **cache:** bound Bun dependency archives ([de44eb3](https://github.com/0xPlayerOne/model-gateway/commit/de44eb3d42492227a53c0f1d737ece301e3e07cf))
-* **cache:** honor restore-only workflow jobs ([c1c74c3](https://github.com/0xPlayerOne/model-gateway/commit/c1c74c37e6526e5a2e6589292ee7ac33a087c8b4))
-* **ci:** adapt package cache to lockfile size ([700d332](https://github.com/0xPlayerOne/model-gateway/commit/700d33211b878d3c95473e095264b8b7efebb2b7))
-* **ci:** apply repo-foundry workflow optimizations ([7c9a5e9](https://github.com/0xPlayerOne/model-gateway/commit/7c9a5e93a8e4838f84f3b1a2aaadf0f6e948fc63))
-* **ci:** avoid unprofitable js build caches ([1e56f1c](https://github.com/0xPlayerOne/model-gateway/commit/1e56f1c1f92bdae8f494d443e6005d59a05b14e4))
-* **ci:** cache Rust lint artifacts ([18b7ebc](https://github.com/0xPlayerOne/model-gateway/commit/18b7ebcfb565df12fa8de1723960ffb3cb09e482))
-* **ci:** default to preloaded runner ([0d8d77a](https://github.com/0xPlayerOne/model-gateway/commit/0d8d77a71e1712ee3b14311c03eda9db4c0b3ba1))
-* **ci:** default Unit tests to slim runner ([a391065](https://github.com/0xPlayerOne/model-gateway/commit/a3910654f3735670d909ddec0c1ae310e196caff))
-* **ci:** enable framework build caches ([bbc373a](https://github.com/0xPlayerOne/model-gateway/commit/bbc373a02e832707e91d733118f55698ee3d85c3))
-* **ci:** scope turbo cache to active task ([3347e84](https://github.com/0xPlayerOne/model-gateway/commit/3347e846d472d6a0173250bbd1730fc0e3fb079a))
-* **ci:** use lean runner for format and lint ([d8ec81b](https://github.com/0xPlayerOne/model-gateway/commit/d8ec81bd05c477dbd021ef99aa13031d48867de0))
-* **codeql:** skip unchanged analyzers before runners ([59fcd99](https://github.com/0xPlayerOne/model-gateway/commit/59fcd9983241ad72bec1d5593da91960182d28dc))
-* **experiment:** share Rust build cache ([82a9646](https://github.com/0xPlayerOne/model-gateway/commit/82a964640d2f4c8be7293860c9380be4b8f33d15))
-* **python:** avoid duplicate uv setup ([9d838c1](https://github.com/0xPlayerOne/model-gateway/commit/9d838c139544ae99fce3ebd875db3cd0380bcb6d))
-* **release:** build Intel macOS on arm runner ([23456ed](https://github.com/0xPlayerOne/model-gateway/commit/23456ed2b03ca61fd664cfa054fe1fac29ff358d))
-* **release:** cache container builds ([2ddf1f1](https://github.com/0xPlayerOne/model-gateway/commit/2ddf1f11ac2c6aec90b9e2f3ceb1d909898ebed4))
-* **release:** cancel superseded runs ([cdf0ca1](https://github.com/0xPlayerOne/model-gateway/commit/cdf0ca1ba337da4d6f6e272d4519e97274debe05))
-* **release:** parallelize validation and cache cargo ([95c671e](https://github.com/0xPlayerOne/model-gateway/commit/95c671e07f761cb07a7393f8651e83a50c9fbe27))
-* **release:** reuse validated native binary ([434a847](https://github.com/0xPlayerOne/model-gateway/commit/434a847f8587d448fa31088126d048583ed1f41b))
-* **release:** skip redundant archive compression ([55fe56a](https://github.com/0xPlayerOne/model-gateway/commit/55fe56a387ec639477d9b91d6a5fb8a8ca6b4fcc))
-* **security:** audit all Python requirements once ([fc1e284](https://github.com/0xPlayerOne/model-gateway/commit/fc1e284af6302a8ce671e24fa1571fc3cf272891))
-* **security:** bootstrap uv for Python audits ([d094ea3](https://github.com/0xPlayerOne/model-gateway/commit/d094ea3a6c0f5f6d944fe62a6405d1c6555c6250))
-* **security:** cache pinned Python auditor ([9c7c116](https://github.com/0xPlayerOne/model-gateway/commit/9c7c1168d22191a53e7650ab5114652ce3073267))
-* **security:** cache Rust toolchains ([b3fa8ae](https://github.com/0xPlayerOne/model-gateway/commit/b3fa8ae485ffbd6755f110f4e2b360e8f68f23fc))
-* **security:** fan out Python dependency audits ([40981fe](https://github.com/0xPlayerOne/model-gateway/commit/40981feb2078abf7e26e88673ad4cdb746ffad7f))
-* **security:** gate audits from shared profile ([97453c3](https://github.com/0xPlayerOne/model-gateway/commit/97453c33ab15c5de4fc26454d062f77fcdad0d48))
-* **security:** keep active audits parallel ([da1802a](https://github.com/0xPlayerOne/model-gateway/commit/da1802a87882cb509016704b7459b0708b3c4cf5))
-* **security:** remove redundant Rust tool cache ([5588abc](https://github.com/0xPlayerOne/model-gateway/commit/5588abc7176f01738b642433043989aa7258fb3e))
-* **security:** skip unused Python package cache ([1322bee](https://github.com/0xPlayerOne/model-gateway/commit/1322beee726ba53de5153a686268e1562f38954a))
-* **security:** start audits concurrently ([5d5685c](https://github.com/0xPlayerOne/model-gateway/commit/5d5685c19087c343ca3ff3b2227dd007627e5659))
-* **setup:** skip duplicate build cache with remote turbo ([5b208d2](https://github.com/0xPlayerOne/model-gateway/commit/5b208d245a8affd97718625ac4d262e39a1803dc))
-* **setup:** skip lint cache outside lint jobs ([68533e7](https://github.com/0xPlayerOne/model-gateway/commit/68533e76c7d727bd3565d597ae873dd6a5e1f19a))
-* **template:** skip unused formatter caches ([7e1282d](https://github.com/0xPlayerOne/model-gateway/commit/7e1282d6661c090918650a0c9c520c19b5ce8320))
-* **test:** benchmark Rust integration cache ([807745d](https://github.com/0xPlayerOne/model-gateway/commit/807745d94ea45ac2cf2293c82e2a963ddcc65a49))
-* **test:** cache Rust integration builds ([16934cf](https://github.com/0xPlayerOne/model-gateway/commit/16934cf92175c0b4a27929ed820f3cab73cc68ca))
-* **test:** use slim runner for unit checks ([9d557ec](https://github.com/0xPlayerOne/model-gateway/commit/9d557ecdfadf5814ca242ceff94d8806de1d31d0))
-* **workflows:** bound automation jobs ([fcdac64](https://github.com/0xPlayerOne/model-gateway/commit/fcdac64a8fd86ed40436162af66b6476a5b8416a))
-* **workflows:** bound hosted job time ([0bf4ded](https://github.com/0xPlayerOne/model-gateway/commit/0bf4ded206e6364cab190b53b3817257abbf38b8))
-* **workflows:** cancel stale branch runs ([4b6196f](https://github.com/0xPlayerOne/model-gateway/commit/4b6196fdef99c780c8e73fd5ef92f56782a9daa6))
-* **workflows:** deduplicate same-commit runs ([a886182](https://github.com/0xPlayerOne/model-gateway/commit/a8861828574ebd2fa04c91b6004445ef4096b19c))
+* **ci:** avoid formatter probe overhead ([a67c708](https://github.com/AndrewM-F/model-gateway/commit/a67c708cfea80a32f69c5dd7f97c74c40bb214ba))
+* **ci:** bootstrap direct prettier ([7be371a](https://github.com/AndrewM-F/model-gateway/commit/7be371a15b3db87a9c4cf84ed302823d378f3ef0))
+* **ci:** skip Bun cache archives for workspaces ([2a3052b](https://github.com/AndrewM-F/model-gateway/commit/2a3052b44e34214b17f5b5710117ee19cec5508a))
+* **ci:** skip installs on turbo cache hits ([c5eb8f4](https://github.com/AndrewM-F/model-gateway/commit/c5eb8f466b03d1ac2f5cf212190eef43770a3127))
+* **security:** guard empty Python audit matrix ([65d09e6](https://github.com/AndrewM-F/model-gateway/commit/65d09e6f000d83c9c4169d72af75d9471885831c))
+* **template:** speed up CodeQL detection ([5d2c0d2](https://github.com/AndrewM-F/model-gateway/commit/5d2c0d215ad9f08fd6cbecbea9f9a6b373cb6144))
+* **template:** use current Turbo remote cache mode ([36ab7d5](https://github.com/AndrewM-F/model-gateway/commit/36ab7d5b883a774e583ec7c0413c8dccd99354f9))
+
+## [0.7.0](https://github.com/AndrewM-F/model-gateway/compare/v0.6.0...v0.7.0) (2026-07-28)
+
+
+### Features
+
+* add source-backed model identity registry ([3b93a3e](https://github.com/AndrewM-F/model-gateway/commit/3b93a3ebdaf7733c0c9bec10d9983d02aad629ee))
+* aggregate provider-scoped model pricing ([fa85e71](https://github.com/AndrewM-F/model-gateway/commit/fa85e718f5c98fd5df79c2521e211582d7eaca8c))
+
+
+### Bug Fixes
+
+* **cache:** detect restored Bun installs ([3a9dedd](https://github.com/AndrewM-F/model-gateway/commit/3a9deddc9615c74685859f3cfd8a1a08cd8deb13))
+* **cache:** require exact Bun dependency matches ([7103e4d](https://github.com/AndrewM-F/model-gateway/commit/7103e4db207b19efa45030ac8900e4946ae8c52a))
+* **ci:** activate build cache for build task ([e71c671](https://github.com/AndrewM-F/model-gateway/commit/e71c671f05ae36df75ed1eb7d55b329568a63e37))
+* **ci:** always activate detected build cache ([a2f0ed7](https://github.com/AndrewM-F/model-gateway/commit/a2f0ed7056cd81c916a241f732253fbd34f25981))
+* **ci:** stabilize Python audit status ([538e601](https://github.com/AndrewM-F/model-gateway/commit/538e601fb5dc8cf2b665249d80ea4b88431b8ba5))
+* **codeql:** restore valid matrix workflow ([30181c5](https://github.com/AndrewM-F/model-gateway/commit/30181c57bcc5e6f29c430a9d4485df2111b8697d))
+* correct project name in license ([324eb23](https://github.com/AndrewM-F/model-gateway/commit/324eb23e785d32da9ecd72c7a53b03ffcc06e56d))
+* detect native Bun coverage runners ([d3cda4e](https://github.com/AndrewM-F/model-gateway/commit/d3cda4ebbfe293d938bcbffbf1a05f154d4c06d9))
+* enforce aggregate coverage in CI ([e635361](https://github.com/AndrewM-F/model-gateway/commit/e635361ba1dd353c1be9fc0e2eaeae332cc184f5))
+* enforce function and line coverage ([9436163](https://github.com/AndrewM-F/model-gateway/commit/94361631e17712193109cd3b67c8f46a1cbc2b47))
+* hermetic CLI tests + deduplicate civil_from_days ([#15](https://github.com/AndrewM-F/model-gateway/issues/15)) ([41c9bc8](https://github.com/AndrewM-F/model-gateway/commit/41c9bc83f2a511a7912bfee1257a09594a1ba167))
+* ignore shared helper files in language detection ([ba5e093](https://github.com/AndrewM-F/model-gateway/commit/ba5e0935d9e9bbd053d92c37685a44758429ee6e))
+* install Rust CI components ([72f2600](https://github.com/AndrewM-F/model-gateway/commit/72f2600a2c22f50b008458010fd41474550e326d))
+* install rustfmt and clippy components in CI workflow ([89bd6d2](https://github.com/AndrewM-F/model-gateway/commit/89bd6d2d49fbbb2639a617280ed687dd66b8fad9))
+* isolate Python coverage from mise environment ([87d0cbe](https://github.com/AndrewM-F/model-gateway/commit/87d0cbe120b2fc5233f675c8fc5ee1c124cd85b7))
+* isolate Python coverage sysconfig workaround ([3bd29f8](https://github.com/AndrewM-F/model-gateway/commit/3bd29f81a86d810f665ae482e7a8fb8453bf0970))
+* make benchmark identity matching fail closed ([2d02eeb](https://github.com/AndrewM-F/model-gateway/commit/2d02eeb40f3bc450c5eac4aa2968de37b3612b0e))
+* pass explicit Python coverage sources ([033d26e](https://github.com/AndrewM-F/model-gateway/commit/033d26e79cc53b7043ae4e1d2e56110f21075301))
+* preserve free pricing and fallback depth ([1516237](https://github.com/AndrewM-F/model-gateway/commit/151623783445fadce86075cd905791a2c09a4b75))
+* restore 2-space indent on release body bullet ([24c2bc1](https://github.com/AndrewM-F/model-gateway/commit/24c2bc1a9a473847a1b357a395d17ef019fa0147))
+* restore dependabot open-pull-requests-limit ([193f292](https://github.com/AndrewM-F/model-gateway/commit/193f292d308d37ad1234a12929758f70d9bf2994))
+* restore release artifact pipeline ([784a9db](https://github.com/AndrewM-F/model-gateway/commit/784a9dbcfedba4e302305ee1d5d691d19ebc8a58))
+* **security:** audit conflicting Python manifests independently ([0f14729](https://github.com/AndrewM-F/model-gateway/commit/0f147294a8e01b3689a1c67e2ab4db609f87ab69))
+* **security:** detect all Python requirement manifests ([88fb79b](https://github.com/AndrewM-F/model-gateway/commit/88fb79bfea86221b8b193a3a359329bd34fc6701))
+* **security:** name skipped Python audits clearly ([fca2490](https://github.com/AndrewM-F/model-gateway/commit/fca2490ae67793492bb63f37cc1f5fcdda7dbbdf))
+* **security:** restore stable Python audit check ([56926ea](https://github.com/AndrewM-F/model-gateway/commit/56926eaed3a79e5d8ff084aa1cb974a92671a752))
+* **setup:** correct action yaml indentation ([33236d3](https://github.com/AndrewM-F/model-gateway/commit/33236d3e8c9bdf39ec3af984b01af73a53b8834e))
+* **setup:** pin uv action for Python workflows ([5267bcb](https://github.com/AndrewM-F/model-gateway/commit/5267bcb25d17535af8de71ec9ad554b4c6bde473))
+* stabilize coverage and dependency audits ([8c1b040](https://github.com/AndrewM-F/model-gateway/commit/8c1b04001029c705e8a9f097cf8273a6c4e161f5))
+* support macOS bash in CI helpers ([84c53f4](https://github.com/AndrewM-F/model-gateway/commit/84c53f4385c9edaba5e49d2b7be7d103deb19c6f))
+* support native and jest coverage reports ([821be87](https://github.com/AndrewM-F/model-gateway/commit/821be870839de79d7152946b4027428685f081e2))
+* use workflow token for release PRs ([2757446](https://github.com/AndrewM-F/model-gateway/commit/2757446946da7389269e6cd5a0299bbe4621e013))
+
+
+### Performance Improvements
+
+* **cache:** allow measured Bun package overrides ([a7bb70f](https://github.com/AndrewM-F/model-gateway/commit/a7bb70f1da5b01f65b61fb7b999298b0bcc298be))
+* **cache:** avoid duplicate parallel saves ([c7cda3d](https://github.com/AndrewM-F/model-gateway/commit/c7cda3d77c9f15d481f4d548ead10f392015d06c))
+* **cache:** bound Bun dependency archives ([de44eb3](https://github.com/AndrewM-F/model-gateway/commit/de44eb3d42492227a53c0f1d737ece301e3e07cf))
+* **cache:** honor restore-only workflow jobs ([c1c74c3](https://github.com/AndrewM-F/model-gateway/commit/c1c74c37e6526e5a2e6589292ee7ac33a087c8b4))
+* **ci:** adapt package cache to lockfile size ([700d332](https://github.com/AndrewM-F/model-gateway/commit/700d33211b878d3c95473e095264b8b7efebb2b7))
+* **ci:** apply repo-foundry workflow optimizations ([7c9a5e9](https://github.com/AndrewM-F/model-gateway/commit/7c9a5e93a8e4838f84f3b1a2aaadf0f6e948fc63))
+* **ci:** avoid unprofitable js build caches ([1e56f1c](https://github.com/AndrewM-F/model-gateway/commit/1e56f1c1f92bdae8f494d443e6005d59a05b14e4))
+* **ci:** cache Rust lint artifacts ([18b7ebc](https://github.com/AndrewM-F/model-gateway/commit/18b7ebcfb565df12fa8de1723960ffb3cb09e482))
+* **ci:** default to preloaded runner ([0d8d77a](https://github.com/AndrewM-F/model-gateway/commit/0d8d77a71e1712ee3b14311c03eda9db4c0b3ba1))
+* **ci:** default Unit tests to slim runner ([a391065](https://github.com/AndrewM-F/model-gateway/commit/a3910654f3735670d909ddec0c1ae310e196caff))
+* **ci:** enable framework build caches ([bbc373a](https://github.com/AndrewM-F/model-gateway/commit/bbc373a02e832707e91d733118f55698ee3d85c3))
+* **ci:** scope turbo cache to active task ([3347e84](https://github.com/AndrewM-F/model-gateway/commit/3347e846d472d6a0173250bbd1730fc0e3fb079a))
+* **ci:** use lean runner for format and lint ([d8ec81b](https://github.com/AndrewM-F/model-gateway/commit/d8ec81bd05c477dbd021ef99aa13031d48867de0))
+* **codeql:** skip unchanged analyzers before runners ([59fcd99](https://github.com/AndrewM-F/model-gateway/commit/59fcd9983241ad72bec1d5593da91960182d28dc))
+* **experiment:** share Rust build cache ([82a9646](https://github.com/AndrewM-F/model-gateway/commit/82a964640d2f4c8be7293860c9380be4b8f33d15))
+* **python:** avoid duplicate uv setup ([9d838c1](https://github.com/AndrewM-F/model-gateway/commit/9d838c139544ae99fce3ebd875db3cd0380bcb6d))
+* **release:** build Intel macOS on arm runner ([23456ed](https://github.com/AndrewM-F/model-gateway/commit/23456ed2b03ca61fd664cfa054fe1fac29ff358d))
+* **release:** cache container builds ([2ddf1f1](https://github.com/AndrewM-F/model-gateway/commit/2ddf1f11ac2c6aec90b9e2f3ceb1d909898ebed4))
+* **release:** cancel superseded runs ([cdf0ca1](https://github.com/AndrewM-F/model-gateway/commit/cdf0ca1ba337da4d6f6e272d4519e97274debe05))
+* **release:** parallelize validation and cache cargo ([95c671e](https://github.com/AndrewM-F/model-gateway/commit/95c671e07f761cb07a7393f8651e83a50c9fbe27))
+* **release:** reuse validated native binary ([434a847](https://github.com/AndrewM-F/model-gateway/commit/434a847f8587d448fa31088126d048583ed1f41b))
+* **release:** skip redundant archive compression ([55fe56a](https://github.com/AndrewM-F/model-gateway/commit/55fe56a387ec639477d9b91d6a5fb8a8ca6b4fcc))
+* **security:** audit all Python requirements once ([fc1e284](https://github.com/AndrewM-F/model-gateway/commit/fc1e284af6302a8ce671e24fa1571fc3cf272891))
+* **security:** bootstrap uv for Python audits ([d094ea3](https://github.com/AndrewM-F/model-gateway/commit/d094ea3a6c0f5f6d944fe62a6405d1c6555c6250))
+* **security:** cache pinned Python auditor ([9c7c116](https://github.com/AndrewM-F/model-gateway/commit/9c7c1168d22191a53e7650ab5114652ce3073267))
+* **security:** cache Rust toolchains ([b3fa8ae](https://github.com/AndrewM-F/model-gateway/commit/b3fa8ae485ffbd6755f110f4e2b360e8f68f23fc))
+* **security:** fan out Python dependency audits ([40981fe](https://github.com/AndrewM-F/model-gateway/commit/40981feb2078abf7e26e88673ad4cdb746ffad7f))
+* **security:** gate audits from shared profile ([97453c3](https://github.com/AndrewM-F/model-gateway/commit/97453c33ab15c5de4fc26454d062f77fcdad0d48))
+* **security:** keep active audits parallel ([da1802a](https://github.com/AndrewM-F/model-gateway/commit/da1802a87882cb509016704b7459b0708b3c4cf5))
+* **security:** remove redundant Rust tool cache ([5588abc](https://github.com/AndrewM-F/model-gateway/commit/5588abc7176f01738b642433043989aa7258fb3e))
+* **security:** skip unused Python package cache ([1322bee](https://github.com/AndrewM-F/model-gateway/commit/1322beee726ba53de5153a686268e1562f38954a))
+* **security:** start audits concurrently ([5d5685c](https://github.com/AndrewM-F/model-gateway/commit/5d5685c19087c343ca3ff3b2227dd007627e5659))
+* **setup:** skip duplicate build cache with remote turbo ([5b208d2](https://github.com/AndrewM-F/model-gateway/commit/5b208d245a8affd97718625ac4d262e39a1803dc))
+* **setup:** skip lint cache outside lint jobs ([68533e7](https://github.com/AndrewM-F/model-gateway/commit/68533e76c7d727bd3565d597ae873dd6a5e1f19a))
+* **template:** skip unused formatter caches ([7e1282d](https://github.com/AndrewM-F/model-gateway/commit/7e1282d6661c090918650a0c9c520c19b5ce8320))
+* **test:** benchmark Rust integration cache ([807745d](https://github.com/AndrewM-F/model-gateway/commit/807745d94ea45ac2cf2293c82e2a963ddcc65a49))
+* **test:** cache Rust integration builds ([16934cf](https://github.com/AndrewM-F/model-gateway/commit/16934cf92175c0b4a27929ed820f3cab73cc68ca))
+* **test:** use slim runner for unit checks ([9d557ec](https://github.com/AndrewM-F/model-gateway/commit/9d557ecdfadf5814ca242ceff94d8806de1d31d0))
+* **workflows:** bound automation jobs ([fcdac64](https://github.com/AndrewM-F/model-gateway/commit/fcdac64a8fd86ed40436162af66b6476a5b8416a))
+* **workflows:** bound hosted job time ([0bf4ded](https://github.com/AndrewM-F/model-gateway/commit/0bf4ded206e6364cab190b53b3817257abbf38b8))
+* **workflows:** cancel stale branch runs ([4b6196f](https://github.com/AndrewM-F/model-gateway/commit/4b6196fdef99c780c8e73fd5ef92f56782a9daa6))
+* **workflows:** deduplicate same-commit runs ([a886182](https://github.com/AndrewM-F/model-gateway/commit/a8861828574ebd2fa04c91b6004445ef4096b19c))
 
 
 ### Reverts
 
-* **ci:** remove ineffective Rust lint cache ([f7ad4df](https://github.com/0xPlayerOne/model-gateway/commit/f7ad4df98d075cfdb6880f4c9d47f1f8977baf64))
-* **experiment:** isolate Rust build caches ([b808899](https://github.com/0xPlayerOne/model-gateway/commit/b808899e242e189e9bdacf5b0e771b61b81e062e))
+* **ci:** remove ineffective Rust lint cache ([f7ad4df](https://github.com/AndrewM-F/model-gateway/commit/f7ad4df98d075cfdb6880f4c9d47f1f8977baf64))
+* **experiment:** isolate Rust build caches ([b808899](https://github.com/AndrewM-F/model-gateway/commit/b808899e242e189e9bdacf5b0e771b61b81e062e))
 
 ## Changelog
 
