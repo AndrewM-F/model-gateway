@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.66](https://github.com/AndrewM-F/model-gateway/compare/v0.14.65...v0.14.66) (2026-11-23)
+
+
+### Maintenance
+
+* **deps:** bump the github-actions group across 1 directory with 2 updates ([#337](https://github.com/AndrewM-F/model-gateway/issues/337)) ([3f89c50](https://github.com/AndrewM-F/model-gateway/commit/3f89c50051828525afac9182481aa996d1e794f1))
+
 ## [0.14.65](https://github.com/AndrewM-F/model-gateway/compare/v0.14.64...v0.14.65) (2026-11-23)
 
 
