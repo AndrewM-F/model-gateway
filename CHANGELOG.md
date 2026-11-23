@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.67](https://github.com/AndrewM-F/model-gateway/compare/v0.14.66...v0.14.67) (2026-11-23)
+
+
+### Bug Fixes
+
+* **deps:** patch unsound and yanked Rust warnings ([#343](https://github.com/AndrewM-F/model-gateway/issues/343)) ([e2837c7](https://github.com/AndrewM-F/model-gateway/commit/e2837c7e7c25815dc29d3a27b92dd9a336842611))
+
 ## [0.14.66](https://github.com/AndrewM-F/model-gateway/compare/v0.14.65...v0.14.66) (2026-11-23)
 
 
