@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.65](https://github.com/AndrewM-F/model-gateway/compare/v0.14.64...v0.14.65) (2026-11-23)
+
+
+### Bug Fixes
+
+* **deps:** update RustSec-affected crates ([#340](https://github.com/AndrewM-F/model-gateway/issues/340)) ([dd54b5a](https://github.com/AndrewM-F/model-gateway/commit/dd54b5a60018113870db30c15a9553324b1743d9))
+
 ## [0.14.64](https://github.com/AndrewM-F/model-gateway/compare/v0.14.63...v0.14.64) (2026-11-16)
 
 
