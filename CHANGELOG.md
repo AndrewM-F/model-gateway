@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.68](https://github.com/AndrewM-F/model-gateway/compare/v0.14.67...v0.14.68) (2026-11-24)
+
+
+### Maintenance
+
+* relicense to Apache-2.0 ([#345](https://github.com/AndrewM-F/model-gateway/issues/345)) ([4f940e4](https://github.com/AndrewM-F/model-gateway/commit/4f940e49b747d65e7f4181a62d019b1a88a783f6))
+
 ## [0.14.67](https://github.com/AndrewM-F/model-gateway/compare/v0.14.66...v0.14.67) (2026-11-23)
 
 
